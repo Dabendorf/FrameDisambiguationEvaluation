@@ -1,0 +1,161 @@
+Model,Batch,Alpha,Eval,Lang,SingleMulti,Average,Std
+bert,16,0.2,F1-Werte (micro),Chinesisch,Multi,0.8308,0.0001
+bert,16,0.2,F1-Werte (micro),Chinesisch,Single,0.89655,0.003950000000000009
+roberta,16,0.15,F1-Werte (micro),Chinesisch,Multi,0.6307,0.004
+roberta,16,0.15,F1-Werte (micro),Chinesisch,Single,0.5587,0.013900000000000023
+bert,16,0.2,Precision,Chinesisch,Multi,0.8656,0.0053
+bert,16,0.2,Precision,Chinesisch,Single,0.9303,0.00019999999999997797
+roberta,16,0.15,Precision,Chinesisch,Multi,0.7933,0.0053
+roberta,16,0.15,Precision,Chinesisch,Single,0.8658,0.0027000000000000357
+bert,16,0.2,Recall,Chinesisch,Multi,0.7989,0.0044
+bert,16,0.2,Recall,Chinesisch,Single,0.8652,0.007500000000000007
+roberta,16,0.15,Recall,Chinesisch,Multi,0.5233,0.0031
+roberta,16,0.15,Recall,Chinesisch,Single,0.41264999999999996,0.015850000000000003
+bert,16,0.2,Accuracy,Chinesisch,Multi,0.9691,0.0003
+bert,16,0.2,Accuracy,Chinesisch,Single,0.9801,0.0008000000000000229
+roberta,16,0.15,Accuracy,Chinesisch,Multi,0.9423,0.0003
+roberta,16,0.15,Accuracy,Chinesisch,Single,0.9345,0.0016000000000000458
+multiflair,16,0.2,F1-Werte (micro),Deutsch,Multi,0.6222,0.0009
+multiflair,16,0.2,F1-Werte (micro),Deutsch,Single,0.7363,0.0024000000000000132
+bert,16,0.2,F1-Werte (micro),Deutsch,Multi,0.7203,0.0008
+bert,16,0.2,F1-Werte (micro),Deutsch,Single,0.7526999999999999,0.0017999999999999683
+roberta,16,0.15,F1-Werte (micro),Deutsch,Multi,0.7771,0.0055
+roberta,16,0.15,F1-Werte (micro),Deutsch,Single,0.7349,0.0011999999999999789
+multiflair,16,0.2,Precision,Deutsch,Multi,0.6743,0.0093
+multiflair,16,0.2,Precision,Deutsch,Single,0.75895,0.002950000000000008
+bert,16,0.2,Precision,Deutsch,Multi,0.7544,0.0005
+bert,16,0.2,Precision,Deutsch,Single,0.7772,0.0030000000000000027
+roberta,16,0.15,Precision,Deutsch,Multi,0.782,0.0057
+roberta,16,0.15,Precision,Deutsch,Single,0.76735,0.0012499999999999734
+multiflair,16,0.2,Recall,Deutsch,Multi,0.5778,0.0053
+multiflair,16,0.2,Recall,Deutsch,Single,0.7149,0.0019000000000000128
+bert,16,0.2,Recall,Deutsch,Multi,0.6891,0.0019
+bert,16,0.2,Recall,Deutsch,Single,0.72965,0.0007500000000000284
+roberta,16,0.15,Recall,Deutsch,Multi,0.7722,0.0053
+roberta,16,0.15,Recall,Deutsch,Single,0.70505,0.0011500000000000399
+multiflair,16,0.2,Accuracy,Deutsch,Multi,0.9587,0.0
+multiflair,16,0.2,Accuracy,Deutsch,Single,0.97075,0.00014999999999998348
+bert,16,0.2,Accuracy,Deutsch,Multi,0.9678,0.0001
+bert,16,0.2,Accuracy,Deutsch,Single,0.97195,4.999999999999449e-05
+roberta,16,0.15,Accuracy,Deutsch,Multi,0.9743,0.0005
+roberta,16,0.15,Accuracy,Deutsch,Single,0.97035,0.000250000000000028
+multiflair,16,0.2,F1-Werte (micro),Englisch,Multi,0.8035,0.0025
+multiflair,16,0.2,F1-Werte (micro),Englisch,Single,0.85545,0.000250000000000028
+bert,16,0.2,F1-Werte (micro),Englisch,Multi,0.8424,0.0015
+bert,16,0.2,F1-Werte (micro),Englisch,Single,0.8511,0.0030999999999999917
+roberta,16,0.15,F1-Werte (micro),Englisch,Multi,0.8656,0.0004
+roberta,16,0.15,F1-Werte (micro),Englisch,Single,0.8613500000000001,0.000250000000000028
+multiflair,16,0.2,Precision,Englisch,Multi,0.8343,0.0016
+multiflair,16,0.2,Precision,Englisch,Single,0.87395,0.0016500000000000403
+bert,16,0.2,Precision,Englisch,Multi,0.8727,0.001
+bert,16,0.2,Precision,Englisch,Single,0.87885,0.0022499999999999742
+roberta,16,0.15,Precision,Englisch,Multi,0.8837,0.0007
+roberta,16,0.15,Precision,Englisch,Single,0.886,0.0013999999999999568
+multiflair,16,0.2,Recall,Englisch,Multi,0.775,0.0034
+multiflair,16,0.2,Recall,Englisch,Single,0.8378,0.0020000000000000018
+bert,16,0.2,Recall,Englisch,Multi,0.8143,0.002
+bert,16,0.2,Recall,Englisch,Single,0.8250500000000001,0.0038499999999999646
+roberta,16,0.15,Recall,Englisch,Multi,0.8482,0.0014
+roberta,16,0.15,Recall,Englisch,Single,0.8380000000000001,0.0006999999999999784
+multiflair,16,0.2,Accuracy,Englisch,Multi,0.9474,0.0008
+multiflair,16,0.2,Accuracy,Englisch,Single,0.96115,0.000250000000000028
+bert,16,0.2,Accuracy,Englisch,Multi,0.9564,0.0005
+bert,16,0.2,Accuracy,Englisch,Single,0.9593499999999999,0.0006499999999999839
+roberta,16,0.15,Accuracy,Englisch,Multi,0.9618,0.0003
+roberta,16,0.15,Accuracy,Englisch,Single,0.96155,4.999999999999449e-05
+multiflair,16,0.2,F1-Werte (micro),Finnisch,Multi,0.776,0.0012
+multiflair,16,0.2,F1-Werte (micro),Finnisch,Single,0.8676999999999999,0.0023000000000000242
+bert,16,0.2,F1-Werte (micro),Finnisch,Multi,0.8179,0.0034
+bert,16,0.2,F1-Werte (micro),Finnisch,Single,0.8388500000000001,0.0026499999999999857
+roberta,16,0.15,F1-Werte (micro),Finnisch,Multi,0.8549,0.0034
+roberta,16,0.15,F1-Werte (micro),Finnisch,Single,0.841,0.00019999999999997797
+multiflair,16,0.2,Precision,Finnisch,Multi,0.8283,0.0029
+multiflair,16,0.2,Precision,Finnisch,Single,0.8902000000000001,0.0025000000000000022
+bert,16,0.2,Precision,Finnisch,Multi,0.8549,0.0037
+bert,16,0.2,Precision,Finnisch,Single,0.8753,0.00030000000000002247
+roberta,16,0.15,Precision,Finnisch,Multi,0.8811,0.0022
+roberta,16,0.15,Precision,Finnisch,Single,0.87755,0.0032500000000000306
+multiflair,16,0.2,Recall,Finnisch,Multi,0.7298,0.0
+multiflair,16,0.2,Recall,Finnisch,Single,0.8463,0.0021000000000000463
+bert,16,0.2,Recall,Finnisch,Multi,0.7839,0.0031
+bert,16,0.2,Recall,Finnisch,Single,0.8053,0.005199999999999982
+roberta,16,0.15,Recall,Finnisch,Multi,0.8301,0.0045
+roberta,16,0.15,Recall,Finnisch,Single,0.8074,0.0023999999999999577
+multiflair,16,0.2,Accuracy,Finnisch,Multi,0.9511,0.0007
+multiflair,16,0.2,Accuracy,Finnisch,Single,0.9727,0.0006000000000000449
+bert,16,0.2,Accuracy,Finnisch,Multi,0.9601,0.0006
+bert,16,0.2,Accuracy,Finnisch,Single,0.96465,0.0008500000000000174
+roberta,16,0.15,Accuracy,Finnisch,Multi,0.9698,0.0004
+roberta,16,0.15,Accuracy,Finnisch,Single,0.9662999999999999,0.00020000000000003348
+multiflair,16,0.2,F1-Werte (micro),Französisch,Multi,0.8254,0.0015
+multiflair,16,0.2,F1-Werte (micro),Französisch,Single,0.8228500000000001,0.0015499999999999958
+bert,16,0.2,F1-Werte (micro),Französisch,Multi,0.837,0.0066
+bert,16,0.2,F1-Werte (micro),Französisch,Single,0.8973,0.0028000000000000247
+roberta,16,0.15,F1-Werte (micro),Französisch,Multi,0.8519,0.0002
+roberta,16,0.15,F1-Werte (micro),Französisch,Single,0.89255,0.0047499999999999765
+multiflair,16,0.2,Precision,Französisch,Multi,0.848,0.0022
+multiflair,16,0.2,Precision,Französisch,Single,0.8674,0.0023000000000000242
+bert,16,0.2,Precision,Französisch,Multi,0.8585,0.006
+bert,16,0.2,Precision,Französisch,Single,0.9075,0.006500000000000006
+roberta,16,0.15,Precision,Französisch,Multi,0.8591,0.0013
+roberta,16,0.15,Precision,Französisch,Single,0.9197500000000001,0.0021500000000000408
+multiflair,16,0.2,Recall,Französisch,Multi,0.8039,0.0008
+multiflair,16,0.2,Recall,Französisch,Single,0.7827,0.004699999999999982
+bert,16,0.2,Recall,Französisch,Multi,0.8165,0.0071
+bert,16,0.2,Recall,Französisch,Single,0.8874,0.0007999999999999674
+roberta,16,0.15,Recall,Französisch,Multi,0.8449,0.0008
+roberta,16,0.15,Recall,Französisch,Single,0.8669,0.007099999999999995
+multiflair,16,0.2,Accuracy,Französisch,Multi,0.9776,0.0001
+multiflair,16,0.2,Accuracy,Französisch,Single,0.9772000000000001,0.00020000000000003348
+bert,16,0.2,Accuracy,Französisch,Multi,0.9798,0.0006
+bert,16,0.2,Accuracy,Französisch,Single,0.9863999999999999,0.00040000000000001146
+roberta,16,0.15,Accuracy,Französisch,Multi,0.9813,0.0003
+roberta,16,0.15,Accuracy,Französisch,Single,0.9855,0.0005999999999999894
+multiflair,16,0.2,F1-Werte (micro),Italienisch,Multi,0.7163,0.0039
+multiflair,16,0.2,F1-Werte (micro),Italienisch,Single,0.8069,0.0015000000000000013
+bert,16,0.2,F1-Werte (micro),Italienisch,Multi,0.7815,0.0024
+bert,16,0.2,F1-Werte (micro),Italienisch,Single,0.8099000000000001,0.003200000000000036
+roberta,16,0.15,F1-Werte (micro),Italienisch,Multi,0.7878,0.0028
+roberta,16,0.15,F1-Werte (micro),Italienisch,Single,0.79155,0.00764999999999999
+multiflair,16,0.2,Precision,Italienisch,Multi,0.7531,0.0055
+multiflair,16,0.2,Precision,Italienisch,Single,0.82195,0.00045000000000000595
+bert,16,0.2,Precision,Italienisch,Multi,0.81,0.0012
+bert,16,0.2,Precision,Italienisch,Single,0.8298000000000001,0.003500000000000003
+roberta,16,0.15,Precision,Italienisch,Multi,0.8128,0.0049
+roberta,16,0.15,Precision,Italienisch,Single,0.82775,0.006149999999999989
+multiflair,16,0.2,Recall,Italienisch,Multi,0.6829,0.0025
+multiflair,16,0.2,Recall,Italienisch,Single,0.7924,0.0025000000000000022
+bert,16,0.2,Recall,Italienisch,Multi,0.755,0.0035
+bert,16,0.2,Recall,Italienisch,Single,0.79095,0.002950000000000008
+roberta,16,0.15,Recall,Italienisch,Multi,0.7643,0.001
+roberta,16,0.15,Recall,Italienisch,Single,0.7584,0.008899999999999963
+multiflair,16,0.2,Accuracy,Italienisch,Multi,0.9702,0.0002
+multiflair,16,0.2,Accuracy,Italienisch,Single,0.98005,0.00024999999999997247
+bert,16,0.2,Accuracy,Italienisch,Multi,0.9762,0.0003
+bert,16,0.2,Accuracy,Italienisch,Single,0.97995,4.999999999999449e-05
+roberta,16,0.15,Accuracy,Italienisch,Multi,0.9774,0.0003
+roberta,16,0.15,Accuracy,Italienisch,Single,0.97785,0.0008500000000000174
+multiflair,16,0.2,F1-Werte (micro),Spanisch,Multi,0.7336,0.0026
+multiflair,16,0.2,F1-Werte (micro),Spanisch,Single,0.77415,0.0016500000000000403
+bert,16,0.2,F1-Werte (micro),Spanisch,Multi,0.756,0.007
+bert,16,0.2,F1-Werte (micro),Spanisch,Single,0.79555,0.005149999999999988
+roberta,16,0.15,F1-Werte (micro),Spanisch,Multi,0.7846,0.0
+roberta,16,0.15,F1-Werte (micro),Spanisch,Single,0.8007,0.004400000000000015
+multiflair,16,0.2,Precision,Spanisch,Multi,0.7894,0.01
+multiflair,16,0.2,Precision,Spanisch,Single,0.8037,9.999999999998899e-05
+bert,16,0.2,Precision,Spanisch,Multi,0.7851,0.0075
+bert,16,0.2,Precision,Spanisch,Single,0.82325,0.0015499999999999958
+roberta,16,0.15,Precision,Spanisch,Multi,0.7964,0.0012
+roberta,16,0.15,Precision,Spanisch,Single,0.8261000000000001,0.002599999999999991
+multiflair,16,0.2,Recall,Spanisch,Multi,0.6854,0.003
+multiflair,16,0.2,Recall,Spanisch,Single,0.74675,0.002950000000000008
+bert,16,0.2,Recall,Spanisch,Multi,0.729,0.0065
+bert,16,0.2,Recall,Spanisch,Single,0.7697499999999999,0.008250000000000035
+roberta,16,0.15,Recall,Spanisch,Multi,0.7733,0.0012
+roberta,16,0.15,Recall,Spanisch,Single,0.7769,0.005900000000000016
+multiflair,16,0.2,Accuracy,Spanisch,Multi,0.9628,0.0003
+multiflair,16,0.2,Accuracy,Spanisch,Single,0.9694,0.00030000000000002247
+bert,16,0.2,Accuracy,Spanisch,Multi,0.9659,0.0006
+bert,16,0.2,Accuracy,Spanisch,Single,0.9723,0.0010000000000000009
+roberta,16,0.15,Accuracy,Spanisch,Multi,0.9709,0.0001
+roberta,16,0.15,Accuracy,Spanisch,Single,0.9724999999999999,0.0006999999999999784

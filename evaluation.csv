@@ -1,0 +1,1153 @@
+Model,Batch,Alpha,Eval,Lang,Average,Std
+multiflair,16,0.05,F1-Werte (micro),Chinesisch,0.71,0.02845000000000003
+multiflair,32,0.05,F1-Werte (micro),Chinesisch,0.63,0.0034500000000000086
+multiflair,64,0.05,F1-Werte (micro),Chinesisch,0.6,0.006750000000000034
+multiflair,16,0.1,F1-Werte (micro),Chinesisch,0.77,0.003599999999999992
+multiflair,32,0.1,F1-Werte (micro),Chinesisch,0.7,0.013600000000000001
+multiflair,64,0.1,F1-Werte (micro),Chinesisch,0.66,0.00020000000000003348
+multiflair,16,0.15,F1-Werte (micro),Chinesisch,0.8,0.011050000000000004
+multiflair,32,0.15,F1-Werte (micro),Chinesisch,0.75,0.012850000000000028
+multiflair,64,0.15,F1-Werte (micro),Chinesisch,0.68,0.00830000000000003
+multiflair,16,0.2,F1-Werte (micro),Chinesisch,0.83,0.003400000000000014
+multiflair,32,0.2,F1-Werte (micro),Chinesisch,0.77,0.01194999999999996
+multiflair,64,0.2,F1-Werte (micro),Chinesisch,0.72,0.006849999999999967
+bert,16,0.05,F1-Werte (micro),Chinesisch,0.82,0.004200000000000037
+bert,32,0.05,F1-Werte (micro),Chinesisch,0.79,0.00030000000000002247
+bert,64,0.05,F1-Werte (micro),Chinesisch,0.75,0.0011000000000000454
+bert,16,0.1,F1-Werte (micro),Chinesisch,0.83,0.007199999999999984
+bert,32,0.1,F1-Werte (micro),Chinesisch,0.82,0.005149999999999988
+bert,64,0.1,F1-Werte (micro),Chinesisch,0.8,0.005300000000000027
+bert,16,0.15,F1-Werte (micro),Chinesisch,0.83,0.003950000000000009
+bert,32,0.15,F1-Werte (micro),Chinesisch,0.83,0.0009000000000000119
+bert,64,0.15,F1-Werte (micro),Chinesisch,0.8,0.0025499999999999967
+bert,16,0.2,F1-Werte (micro),Chinesisch,0.83,9.999999999998899e-05
+bert,32,0.2,F1-Werte (micro),Chinesisch,0.83,0.006800000000000028
+bert,64,0.2,F1-Werte (micro),Chinesisch,0.82,0.005449999999999955
+roberta,16,0.05,F1-Werte (micro),Chinesisch,0.6,0.003349999999999964
+roberta,32,0.05,F1-Werte (micro),Chinesisch,0.59,0.0005000000000000004
+roberta,64,0.05,F1-Werte (micro),Chinesisch,0.56,0.003650000000000042
+roberta,16,0.1,F1-Werte (micro),Chinesisch,0.61,0.01815
+roberta,32,0.1,F1-Werte (micro),Chinesisch,0.6,0.006850000000000023
+roberta,64,0.1,F1-Werte (micro),Chinesisch,0.6,0.0031999999999999806
+roberta,16,0.15,F1-Werte (micro),Chinesisch,0.63,0.003950000000000009
+roberta,32,0.15,F1-Werte (micro),Chinesisch,0.62,0.02024999999999999
+roberta,64,0.15,F1-Werte (micro),Chinesisch,0.6,0.007599999999999996
+roberta,16,0.2,F1-Werte (micro),Chinesisch,0.61,0.0013999999999999568
+roberta,32,0.2,F1-Werte (micro),Chinesisch,0.61,0.003699999999999981
+roberta,64,0.2,F1-Werte (micro),Chinesisch,0.61,0.006250000000000033
+multiflair,16,0.05,Precision,Chinesisch,0.86,0.0029000000000000137
+multiflair,32,0.05,Precision,Chinesisch,0.88,0.005500000000000005
+multiflair,64,0.05,Precision,Chinesisch,0.88,0.0011000000000000454
+multiflair,16,0.1,Precision,Chinesisch,0.87,0.004599999999999993
+multiflair,32,0.1,Precision,Chinesisch,0.86,0.003200000000000036
+multiflair,64,0.1,Precision,Chinesisch,0.87,0.007550000000000001
+multiflair,16,0.15,Precision,Chinesisch,0.87,0.008199999999999985
+multiflair,32,0.15,Precision,Chinesisch,0.88,0.007599999999999996
+multiflair,64,0.15,Precision,Chinesisch,0.86,0.0012500000000000289
+multiflair,16,0.2,Precision,Chinesisch,0.87,0.0017999999999999683
+multiflair,32,0.2,Precision,Chinesisch,0.87,0.005950000000000011
+multiflair,64,0.2,Precision,Chinesisch,0.88,0.0039000000000000146
+bert,16,0.05,Precision,Chinesisch,0.85,0.00019999999999997797
+bert,32,0.05,Precision,Chinesisch,0.84,0.0018999999999999573
+bert,64,0.05,Precision,Chinesisch,0.83,0.0006999999999999784
+bert,16,0.1,Precision,Chinesisch,0.86,0.006350000000000022
+bert,32,0.1,Precision,Chinesisch,0.86,0.009899999999999964
+bert,64,0.1,Precision,Chinesisch,0.85,0.006500000000000006
+bert,16,0.15,Precision,Chinesisch,0.86,0.0019000000000000128
+bert,32,0.15,Precision,Chinesisch,0.87,0.002850000000000019
+bert,64,0.15,Precision,Chinesisch,0.85,0.0023500000000000187
+bert,16,0.2,Precision,Chinesisch,0.87,0.005300000000000027
+bert,32,0.2,Precision,Chinesisch,0.86,0.0032500000000000306
+bert,64,0.2,Precision,Chinesisch,0.86,0.005350000000000021
+roberta,16,0.05,Precision,Chinesisch,0.78,0.004400000000000015
+roberta,32,0.05,Precision,Chinesisch,0.77,0.005850000000000022
+roberta,64,0.05,Precision,Chinesisch,0.76,0.02939999999999998
+roberta,16,0.1,Precision,Chinesisch,0.77,0.00269999999999998
+roberta,32,0.1,Precision,Chinesisch,0.77,0.0008499999999999619
+roberta,64,0.1,Precision,Chinesisch,0.78,0.0034500000000000086
+roberta,16,0.15,Precision,Chinesisch,0.79,0.005299999999999971
+roberta,32,0.15,Precision,Chinesisch,0.78,0.008850000000000025
+roberta,64,0.15,Precision,Chinesisch,0.77,0.004500000000000004
+roberta,16,0.2,Precision,Chinesisch,0.79,0.006700000000000039
+roberta,32,0.2,Precision,Chinesisch,0.78,0.0007000000000000339
+roberta,64,0.2,Precision,Chinesisch,0.78,0.0050000000000000044
+multiflair,16,0.05,Recall,Chinesisch,0.6,0.04265000000000002
+multiflair,32,0.05,Recall,Chinesisch,0.49,0.005950000000000011
+multiflair,64,0.05,Recall,Chinesisch,0.46,0.007500000000000007
+multiflair,16,0.1,Recall,Chinesisch,0.69,0.008699999999999986
+multiflair,32,0.1,Recall,Chinesisch,0.59,0.017750000000000044
+multiflair,64,0.1,Recall,Chinesisch,0.54,0.003149999999999986
+multiflair,16,0.15,Recall,Chinesisch,0.74,0.024500000000000022
+multiflair,32,0.15,Recall,Chinesisch,0.66,0.01539999999999997
+multiflair,64,0.15,Recall,Chinesisch,0.56,0.010649999999999993
+multiflair,16,0.2,Recall,Chinesisch,0.79,0.0047499999999999765
+multiflair,32,0.2,Recall,Chinesisch,0.69,0.015400000000000025
+multiflair,64,0.2,Recall,Chinesisch,0.61,0.007899999999999963
+bert,16,0.05,Recall,Chinesisch,0.78,0.007899999999999963
+bert,32,0.05,Recall,Chinesisch,0.74,0.0020000000000000018
+bert,64,0.05,Recall,Chinesisch,0.68,0.0024000000000000132
+bert,16,0.1,Recall,Chinesisch,0.8,0.007900000000000018
+bert,32,0.1,Recall,Chinesisch,0.78,0.0011999999999999789
+bert,64,0.1,Recall,Chinesisch,0.75,0.0043500000000000205
+bert,16,0.15,Recall,Chinesisch,0.81,0.009099999999999997
+bert,32,0.15,Recall,Chinesisch,0.8,0.000749999999999973
+bert,64,0.15,Recall,Chinesisch,0.76,0.006300000000000028
+bert,16,0.2,Recall,Chinesisch,0.8,0.0043500000000000205
+bert,32,0.2,Recall,Chinesisch,0.81,0.009899999999999964
+bert,64,0.2,Recall,Chinesisch,0.78,0.005549999999999999
+roberta,16,0.05,Recall,Chinesisch,0.49,0.002799999999999997
+roberta,32,0.05,Recall,Chinesisch,0.48,0.001600000000000018
+roberta,64,0.05,Recall,Chinesisch,0.44,0.014649999999999996
+roberta,16,0.1,Recall,Chinesisch,0.51,0.02369999999999997
+roberta,32,0.1,Recall,Chinesisch,0.49,0.00949999999999998
+roberta,64,0.1,Recall,Chinesisch,0.48,0.005499999999999977
+roberta,16,0.15,Recall,Chinesisch,0.52,0.003149999999999986
+roberta,32,0.15,Recall,Chinesisch,0.51,0.0237
+roberta,64,0.15,Recall,Chinesisch,0.49,0.008300000000000002
+roberta,16,0.2,Recall,Chinesisch,0.5,0.0007999999999999952
+roberta,32,0.2,Recall,Chinesisch,0.5,0.004750000000000032
+roberta,64,0.2,Recall,Chinesisch,0.5,0.0063
+multiflair,16,0.05,Accuracy,Chinesisch,0.95,0.003300000000000025
+multiflair,32,0.05,Accuracy,Chinesisch,0.94,0.000250000000000028
+multiflair,64,0.05,Accuracy,Chinesisch,0.94,0.0009500000000000064
+multiflair,16,0.1,Accuracy,Chinesisch,0.96,0.00040000000000001146
+multiflair,32,0.1,Accuracy,Chinesisch,0.95,0.0018000000000000238
+multiflair,64,0.1,Accuracy,Chinesisch,0.94,9.999999999998899e-05
+multiflair,16,0.15,Accuracy,Chinesisch,0.96,0.0014500000000000068
+multiflair,32,0.15,Accuracy,Chinesisch,0.96,0.0018500000000000183
+multiflair,64,0.15,Accuracy,Chinesisch,0.95,0.0011499999999999844
+multiflair,16,0.2,Accuracy,Chinesisch,0.97,0.0005499999999999949
+multiflair,32,0.2,Accuracy,Chinesisch,0.96,0.0020499999999999963
+multiflair,64,0.2,Accuracy,Chinesisch,0.95,0.0009000000000000119
+bert,16,0.05,Accuracy,Chinesisch,0.97,0.000749999999999973
+bert,32,0.05,Accuracy,Chinesisch,0.96,0.00040000000000001146
+bert,64,0.05,Accuracy,Chinesisch,0.96,9.999999999998899e-05
+bert,16,0.1,Accuracy,Chinesisch,0.97,0.0014500000000000068
+bert,32,0.1,Accuracy,Chinesisch,0.97,0.0009000000000000119
+bert,64,0.1,Accuracy,Chinesisch,0.96,0.0008500000000000174
+bert,16,0.15,Accuracy,Chinesisch,0.97,0.0006499999999999839
+bert,32,0.15,Accuracy,Chinesisch,0.97,4.999999999999449e-05
+bert,64,0.15,Accuracy,Chinesisch,0.96,0.00045000000000000595
+bert,16,0.2,Accuracy,Chinesisch,0.97,0.000250000000000028
+bert,32,0.2,Accuracy,Chinesisch,0.97,0.0009000000000000119
+bert,64,0.2,Accuracy,Chinesisch,0.97,0.0010000000000000009
+roberta,16,0.05,Accuracy,Chinesisch,0.94,0.00045000000000000595
+roberta,32,0.05,Accuracy,Chinesisch,0.94,0.00020000000000003348
+roberta,64,0.05,Accuracy,Chinesisch,0.93,0.0
+roberta,16,0.1,Accuracy,Chinesisch,0.94,0.0019000000000000128
+roberta,32,0.1,Accuracy,Chinesisch,0.94,0.0010499999999999954
+roberta,64,0.1,Accuracy,Chinesisch,0.94,0.000749999999999973
+roberta,16,0.15,Accuracy,Chinesisch,0.94,0.00030000000000002247
+roberta,32,0.15,Accuracy,Chinesisch,0.94,0.00275000000000003
+roberta,64,0.15,Accuracy,Chinesisch,0.94,0.0011499999999999844
+roberta,16,0.2,Accuracy,Chinesisch,0.94,0.0005000000000000004
+roberta,32,0.2,Accuracy,Chinesisch,0.94,0.0006500000000000394
+roberta,64,0.2,Accuracy,Chinesisch,0.94,0.0010000000000000009
+multiflair,16,0.05,F1-Werte (micro),Deutsch,0.51,0.01899999999999999
+multiflair,32,0.05,F1-Werte (micro),Deutsch,0.41,0.0014500000000000068
+multiflair,64,0.05,F1-Werte (micro),Deutsch,0.38,0.008800000000000002
+multiflair,16,0.1,F1-Werte (micro),Deutsch,0.57,0.005799999999999972
+multiflair,32,0.1,F1-Werte (micro),Deutsch,0.51,0.006750000000000034
+multiflair,64,0.1,F1-Werte (micro),Deutsch,0.47,0.0010999999999999899
+multiflair,16,0.15,F1-Werte (micro),Deutsch,0.6,0.010350000000000026
+multiflair,32,0.15,F1-Werte (micro),Deutsch,0.55,0.009500000000000008
+multiflair,64,0.15,F1-Werte (micro),Deutsch,0.48,0.009949999999999987
+multiflair,16,0.2,F1-Werte (micro),Deutsch,0.62,0.0008500000000000174
+multiflair,32,0.2,F1-Werte (micro),Deutsch,0.56,0.008150000000000046
+multiflair,64,0.2,F1-Werte (micro),Deutsch,0.52,0.00030000000000002247
+bert,16,0.05,F1-Werte (micro),Deutsch,0.69,0.008750000000000036
+bert,32,0.05,F1-Werte (micro),Deutsch,0.67,0.00269999999999998
+bert,64,0.05,F1-Werte (micro),Deutsch,0.63,0.0013500000000000179
+bert,16,0.1,F1-Werte (micro),Deutsch,0.7,0.0019500000000000073
+bert,32,0.1,F1-Werte (micro),Deutsch,0.7,0.0019500000000000073
+bert,64,0.1,F1-Werte (micro),Deutsch,0.67,0.0015999999999999903
+bert,16,0.15,F1-Werte (micro),Deutsch,0.71,0.005749999999999977
+bert,32,0.15,F1-Werte (micro),Deutsch,0.71,0.00655
+bert,64,0.15,F1-Werte (micro),Deutsch,0.68,0.0040999999999999925
+bert,16,0.2,F1-Werte (micro),Deutsch,0.72,0.0008499999999999619
+bert,32,0.2,F1-Werte (micro),Deutsch,0.72,0.011800000000000033
+bert,64,0.2,F1-Werte (micro),Deutsch,0.69,0.0040999999999999925
+roberta,16,0.05,F1-Werte (micro),Deutsch,0.74,0.003650000000000042
+roberta,32,0.05,F1-Werte (micro),Deutsch,0.72,0.00035000000000001696
+roberta,64,0.05,F1-Werte (micro),Deutsch,0.7,0.004799999999999971
+roberta,16,0.1,F1-Werte (micro),Deutsch,0.76,0.006099999999999994
+roberta,32,0.1,F1-Werte (micro),Deutsch,0.74,0.006899999999999962
+roberta,64,0.1,F1-Werte (micro),Deutsch,0.73,0.006899999999999962
+roberta,16,0.15,F1-Werte (micro),Deutsch,0.78,0.005500000000000005
+roberta,32,0.15,F1-Werte (micro),Deutsch,0.75,0.01319999999999999
+roberta,64,0.15,F1-Werte (micro),Deutsch,0.74,0.012749999999999984
+roberta,16,0.2,F1-Werte (micro),Deutsch,0.77,0.0009500000000000064
+roberta,32,0.2,F1-Werte (micro),Deutsch,0.76,0.002850000000000019
+roberta,64,0.2,F1-Werte (micro),Deutsch,0.75,0.00874999999999998
+multiflair,16,0.05,Precision,Deutsch,0.64,0.011149999999999993
+multiflair,32,0.05,Precision,Deutsch,0.57,0.009199999999999986
+multiflair,64,0.05,Precision,Deutsch,0.54,0.00830000000000003
+multiflair,16,0.1,Precision,Deutsch,0.67,0.0018500000000000183
+multiflair,32,0.1,Precision,Deutsch,0.63,0.008349999999999969
+multiflair,64,0.1,Precision,Deutsch,0.62,0.007800000000000029
+multiflair,16,0.15,Precision,Deutsch,0.68,0.004850000000000021
+multiflair,32,0.15,Precision,Deutsch,0.66,0.0022500000000000298
+multiflair,64,0.15,Precision,Deutsch,0.63,0.005449999999999955
+multiflair,16,0.2,Precision,Deutsch,0.67,0.00934999999999997
+multiflair,32,0.2,Precision,Deutsch,0.66,0.006699999999999984
+multiflair,64,0.2,Precision,Deutsch,0.64,0.0025000000000000022
+bert,16,0.05,Precision,Deutsch,0.72,0.01094999999999996
+bert,32,0.05,Precision,Deutsch,0.71,0.007349999999999968
+bert,64,0.05,Precision,Deutsch,0.67,0.0015499999999999958
+bert,16,0.1,Precision,Deutsch,0.73,0.0015499999999999958
+bert,32,0.1,Precision,Deutsch,0.73,0.004750000000000032
+bert,64,0.1,Precision,Deutsch,0.7,0.003500000000000003
+bert,16,0.15,Precision,Deutsch,0.74,0.0031500000000000417
+bert,32,0.15,Precision,Deutsch,0.74,0.008850000000000025
+bert,64,0.15,Precision,Deutsch,0.72,0.0040000000000000036
+bert,16,0.2,Precision,Deutsch,0.75,0.00045000000000000595
+bert,32,0.2,Precision,Deutsch,0.74,0.012699999999999989
+bert,64,0.2,Precision,Deutsch,0.72,0.005349999999999966
+roberta,16,0.05,Precision,Deutsch,0.75,0.00545000000000001
+roberta,32,0.05,Precision,Deutsch,0.73,9.999999999998899e-05
+roberta,64,0.05,Precision,Deutsch,0.72,0.005149999999999988
+roberta,16,0.1,Precision,Deutsch,0.77,0.003300000000000025
+roberta,32,0.1,Precision,Deutsch,0.75,0.005800000000000027
+roberta,64,0.1,Precision,Deutsch,0.74,0.00824999999999998
+roberta,16,0.15,Precision,Deutsch,0.78,0.005699999999999983
+roberta,32,0.15,Precision,Deutsch,0.76,0.009650000000000047
+roberta,64,0.15,Precision,Deutsch,0.75,0.010599999999999998
+roberta,16,0.2,Precision,Deutsch,0.78,0.00035000000000001696
+roberta,32,0.2,Precision,Deutsch,0.77,0.003500000000000003
+roberta,64,0.2,Precision,Deutsch,0.75,0.003699999999999981
+multiflair,16,0.05,Recall,Deutsch,0.42,0.02124999999999999
+multiflair,32,0.05,Recall,Deutsch,0.32,0.0011499999999999844
+multiflair,64,0.05,Recall,Deutsch,0.29,0.007950000000000013
+multiflair,16,0.1,Recall,Deutsch,0.5,0.009849999999999998
+multiflair,32,0.1,Recall,Deutsch,0.43,0.005649999999999988
+multiflair,64,0.1,Recall,Deutsch,0.38,0.0015499999999999958
+multiflair,16,0.15,Recall,Deutsch,0.55,0.013649999999999995
+multiflair,32,0.15,Recall,Deutsch,0.48,0.012899999999999995
+multiflair,64,0.15,Recall,Deutsch,0.39,0.01100000000000001
+multiflair,16,0.2,Recall,Deutsch,0.58,0.005299999999999971
+multiflair,32,0.2,Recall,Deutsch,0.5,0.016350000000000003
+multiflair,64,0.2,Recall,Deutsch,0.44,0.0007500000000000007
+bert,16,0.05,Recall,Deutsch,0.66,0.006850000000000023
+bert,32,0.05,Recall,Deutsch,0.63,0.0010999999999999899
+bert,64,0.05,Recall,Deutsch,0.59,0.0011499999999999844
+bert,16,0.1,Recall,Deutsch,0.68,0.0022999999999999687
+bert,32,0.1,Recall,Deutsch,0.67,0.00040000000000001146
+bert,64,0.1,Recall,Deutsch,0.64,0.0
+bert,16,0.15,Recall,Deutsch,0.69,0.007950000000000013
+bert,32,0.15,Recall,Deutsch,0.68,0.0045499999999999985
+bert,64,0.15,Recall,Deutsch,0.66,0.0041500000000000425
+bert,16,0.2,Recall,Deutsch,0.69,0.0018999999999999573
+bert,32,0.2,Recall,Deutsch,0.69,0.01100000000000001
+bert,64,0.2,Recall,Deutsch,0.66,0.0030000000000000027
+roberta,16,0.05,Recall,Deutsch,0.73,0.0019000000000000128
+roberta,32,0.05,Recall,Deutsch,0.71,0.0007500000000000284
+roberta,64,0.05,Recall,Deutsch,0.68,0.0045499999999999985
+roberta,16,0.1,Recall,Deutsch,0.75,0.008699999999999986
+roberta,32,0.1,Recall,Deutsch,0.73,0.007949999999999957
+roberta,64,0.1,Recall,Deutsch,0.71,0.005699999999999983
+roberta,16,0.15,Recall,Deutsch,0.77,0.005299999999999971
+roberta,32,0.15,Recall,Deutsch,0.75,0.016699999999999993
+roberta,64,0.15,Recall,Deutsch,0.73,0.01479999999999998
+roberta,16,0.2,Recall,Deutsch,0.77,0.0015000000000000013
+roberta,32,0.2,Recall,Deutsch,0.76,0.0022500000000000298
+roberta,64,0.2,Recall,Deutsch,0.74,0.013649999999999995
+multiflair,16,0.05,Accuracy,Deutsch,0.95,0.0012999999999999678
+multiflair,32,0.05,Accuracy,Deutsch,0.94,9.999999999998899e-05
+multiflair,64,0.05,Accuracy,Deutsch,0.94,0.00045000000000000595
+multiflair,16,0.1,Accuracy,Deutsch,0.95,0.0005499999999999949
+multiflair,32,0.1,Accuracy,Deutsch,0.95,0.0005999999999999894
+multiflair,64,0.1,Accuracy,Deutsch,0.94,4.999999999999449e-05
+multiflair,16,0.15,Accuracy,Deutsch,0.96,0.0009000000000000119
+multiflair,32,0.15,Accuracy,Deutsch,0.95,0.0011000000000000454
+multiflair,64,0.15,Accuracy,Deutsch,0.95,0.0007999999999999674
+multiflair,16,0.2,Accuracy,Deutsch,0.96,4.999999999999449e-05
+multiflair,32,0.2,Accuracy,Deutsch,0.95,0.0011999999999999789
+multiflair,64,0.2,Accuracy,Deutsch,0.95,0.00030000000000002247
+bert,16,0.05,Accuracy,Deutsch,0.96,0.0009500000000000064
+bert,32,0.05,Accuracy,Deutsch,0.96,0.00035000000000001696
+bert,64,0.05,Accuracy,Deutsch,0.96,0.00014999999999998348
+bert,16,0.1,Accuracy,Deutsch,0.97,0.000250000000000028
+bert,32,0.1,Accuracy,Deutsch,0.97,0.00030000000000002247
+bert,64,0.1,Accuracy,Deutsch,0.96,0.00034999999999996145
+bert,16,0.15,Accuracy,Deutsch,0.97,0.0006999999999999784
+bert,32,0.15,Accuracy,Deutsch,0.97,0.0007000000000000339
+bert,64,0.15,Accuracy,Deutsch,0.96,0.00039999999999995595
+bert,16,0.2,Accuracy,Deutsch,0.97,0.00014999999999998348
+bert,32,0.2,Accuracy,Deutsch,0.97,0.0010000000000000009
+bert,64,0.2,Accuracy,Deutsch,0.97,0.00045000000000000595
+roberta,16,0.05,Accuracy,Deutsch,0.97,0.00019999999999997797
+roberta,32,0.05,Accuracy,Deutsch,0.97,4.999999999999449e-05
+roberta,64,0.05,Accuracy,Deutsch,0.97,0.00030000000000002247
+roberta,16,0.1,Accuracy,Deutsch,0.97,0.0006499999999999839
+roberta,32,0.1,Accuracy,Deutsch,0.97,0.0005999999999999894
+roberta,64,0.1,Accuracy,Deutsch,0.97,0.00040000000000001146
+roberta,16,0.15,Accuracy,Deutsch,0.97,0.00045000000000000595
+roberta,32,0.15,Accuracy,Deutsch,0.97,0.0013000000000000234
+roberta,64,0.15,Accuracy,Deutsch,0.97,0.0014000000000000123
+roberta,16,0.2,Accuracy,Deutsch,0.97,0.00019999999999997797
+roberta,32,0.2,Accuracy,Deutsch,0.97,0.00024999999999997247
+roberta,64,0.2,Accuracy,Deutsch,0.97,0.0009500000000000064
+multiflair,16,0.05,F1-Werte (micro),Englisch,0.71,0.020199999999999996
+multiflair,32,0.05,F1-Werte (micro),Englisch,0.62,0.0047499999999999765
+multiflair,64,0.05,F1-Werte (micro),Englisch,0.58,0.0048000000000000265
+multiflair,16,0.1,F1-Werte (micro),Englisch,0.77,0.0026499999999999857
+multiflair,32,0.1,F1-Werte (micro),Englisch,0.71,0.010149999999999992
+multiflair,64,0.1,F1-Werte (micro),Englisch,0.67,0.0020999999999999908
+multiflair,16,0.15,F1-Werte (micro),Englisch,0.79,0.0048499999999999654
+multiflair,32,0.15,F1-Werte (micro),Englisch,0.75,0.005400000000000016
+multiflair,64,0.15,F1-Werte (micro),Englisch,0.68,0.012249999999999983
+multiflair,16,0.2,F1-Werte (micro),Englisch,0.8,0.0025499999999999967
+multiflair,32,0.2,F1-Werte (micro),Englisch,0.76,0.008500000000000008
+multiflair,64,0.2,F1-Werte (micro),Englisch,0.73,0.0010499999999999954
+bert,16,0.05,F1-Werte (micro),Englisch,0.82,0.0012499999999999734
+bert,32,0.05,F1-Werte (micro),Englisch,0.8,0.0010499999999999954
+bert,64,0.05,F1-Werte (micro),Englisch,0.77,0.0009500000000000064
+bert,16,0.1,F1-Werte (micro),Englisch,0.83,0.0019500000000000073
+bert,32,0.1,F1-Werte (micro),Englisch,0.83,0.000250000000000028
+bert,64,0.1,F1-Werte (micro),Englisch,0.8,0.0020499999999999963
+bert,16,0.15,F1-Werte (micro),Englisch,0.84,0.0015000000000000013
+bert,32,0.15,F1-Werte (micro),Englisch,0.83,0.003149999999999986
+bert,64,0.15,F1-Werte (micro),Englisch,0.81,0.005599999999999994
+bert,16,0.2,F1-Werte (micro),Englisch,0.84,0.0015499999999999958
+bert,32,0.2,F1-Werte (micro),Englisch,0.84,0.0041999999999999815
+bert,64,0.2,F1-Werte (micro),Englisch,0.82,0.0012499999999999734
+roberta,16,0.05,F1-Werte (micro),Englisch,0.84,0.00040000000000001146
+roberta,32,0.05,F1-Werte (micro),Englisch,0.83,0.0018000000000000238
+roberta,64,0.05,F1-Werte (micro),Englisch,0.8,4.999999999999449e-05
+roberta,16,0.1,F1-Werte (micro),Englisch,0.85,0.006099999999999994
+roberta,32,0.1,F1-Werte (micro),Englisch,0.84,0.0043500000000000205
+roberta,64,0.1,F1-Werte (micro),Englisch,0.83,0.00014999999999998348
+roberta,16,0.15,F1-Werte (micro),Englisch,0.87,0.00040000000000001146
+roberta,32,0.15,F1-Werte (micro),Englisch,0.85,0.005850000000000022
+roberta,64,0.15,F1-Werte (micro),Englisch,0.84,0.003950000000000009
+roberta,16,0.2,F1-Werte (micro),Englisch,0.86,0.0020999999999999908
+roberta,32,0.2,F1-Werte (micro),Englisch,0.86,0.0027499999999999747
+roberta,64,0.2,F1-Werte (micro),Englisch,0.85,0.006199999999999983
+multiflair,16,0.05,Precision,Englisch,0.81,0.00824999999999998
+multiflair,32,0.05,Precision,Englisch,0.75,0.0012500000000000289
+multiflair,64,0.05,Precision,Englisch,0.73,0.003049999999999997
+multiflair,16,0.1,Precision,Englisch,0.82,0.004049999999999998
+multiflair,32,0.1,Precision,Englisch,0.8,0.006950000000000012
+multiflair,64,0.1,Precision,Englisch,0.78,0.0006499999999999839
+multiflair,16,0.15,Precision,Englisch,0.83,0.00024999999999997247
+multiflair,32,0.15,Precision,Englisch,0.82,0.0014500000000000068
+multiflair,64,0.15,Precision,Englisch,0.79,0.006099999999999994
+multiflair,16,0.2,Precision,Englisch,0.83,0.0015999999999999903
+multiflair,32,0.2,Precision,Englisch,0.82,0.0013000000000000234
+multiflair,64,0.2,Precision,Englisch,0.81,0.00034999999999996145
+bert,16,0.05,Precision,Englisch,0.86,0.0006499999999999839
+bert,32,0.05,Precision,Englisch,0.85,0.0010499999999999954
+bert,64,0.05,Precision,Englisch,0.83,0.0018500000000000183
+bert,16,0.1,Precision,Englisch,0.86,0.0019500000000000073
+bert,32,0.1,Precision,Englisch,0.86,0.000150000000000039
+bert,64,0.1,Precision,Englisch,0.84,0.0012500000000000289
+bert,16,0.15,Precision,Englisch,0.87,0.0008999999999999564
+bert,32,0.15,Precision,Englisch,0.86,0.0023999999999999577
+bert,64,0.15,Precision,Englisch,0.85,0.003599999999999992
+bert,16,0.2,Precision,Englisch,0.87,0.0010499999999999954
+bert,32,0.2,Precision,Englisch,0.87,0.003500000000000003
+bert,64,0.2,Precision,Englisch,0.86,0.0024500000000000077
+roberta,16,0.05,Precision,Englisch,0.87,9.999999999998899e-05
+roberta,32,0.05,Precision,Englisch,0.87,0.002950000000000008
+roberta,64,0.05,Precision,Englisch,0.85,0.0030000000000000027
+roberta,16,0.1,Precision,Englisch,0.88,0.002799999999999969
+roberta,32,0.1,Precision,Englisch,0.87,0.0023500000000000187
+roberta,64,0.1,Precision,Englisch,0.87,0.00040000000000001146
+roberta,16,0.15,Precision,Englisch,0.88,0.0006999999999999784
+roberta,32,0.15,Precision,Englisch,0.88,0.0017499999999999738
+roberta,64,0.15,Precision,Englisch,0.87,0.0005999999999999894
+roberta,16,0.2,Precision,Englisch,0.88,0.0017499999999999738
+roberta,32,0.2,Precision,Englisch,0.88,0.0030999999999999917
+roberta,64,0.2,Precision,Englisch,0.87,0.002899999999999958
+multiflair,16,0.05,Recall,Englisch,0.64,0.02729999999999999
+multiflair,32,0.05,Recall,Englisch,0.52,0.006249999999999978
+multiflair,64,0.05,Recall,Englisch,0.49,0.005299999999999999
+multiflair,16,0.1,Recall,Englisch,0.72,0.0015499999999999958
+multiflair,32,0.1,Recall,Englisch,0.64,0.0121
+multiflair,64,0.1,Recall,Englisch,0.58,0.0036499999999999866
+multiflair,16,0.15,Recall,Englisch,0.75,0.008550000000000002
+multiflair,32,0.15,Recall,Englisch,0.69,0.008199999999999985
+multiflair,64,0.15,Recall,Englisch,0.6,0.015500000000000014
+multiflair,16,0.2,Recall,Englisch,0.77,0.0033500000000000196
+multiflair,32,0.2,Recall,Englisch,0.72,0.01595000000000002
+multiflair,64,0.2,Recall,Englisch,0.66,0.0019500000000000073
+bert,16,0.05,Recall,Englisch,0.79,0.002799999999999969
+bert,32,0.05,Recall,Englisch,0.76,0.001050000000000051
+bert,64,0.05,Recall,Englisch,0.72,0.00030000000000002247
+bert,16,0.1,Recall,Englisch,0.8,0.0020000000000000018
+bert,32,0.1,Recall,Englisch,0.79,0.00035000000000001696
+bert,64,0.1,Recall,Englisch,0.76,0.00269999999999998
+bert,16,0.15,Recall,Englisch,0.81,0.003500000000000003
+bert,32,0.15,Recall,Englisch,0.8,0.0037499999999999756
+bert,64,0.15,Recall,Englisch,0.78,0.007199999999999984
+bert,16,0.2,Recall,Englisch,0.81,0.0019500000000000073
+bert,32,0.2,Recall,Englisch,0.81,0.004799999999999971
+bert,64,0.2,Recall,Englisch,0.79,0.00020000000000003348
+roberta,16,0.05,Recall,Englisch,0.81,0.000749999999999973
+roberta,32,0.05,Recall,Englisch,0.8,0.0008000000000000229
+roberta,64,0.05,Recall,Englisch,0.76,0.0022999999999999687
+roberta,16,0.1,Recall,Englisch,0.83,0.009099999999999997
+roberta,32,0.1,Recall,Englisch,0.82,0.00605
+roberta,64,0.1,Recall,Englisch,0.8,9.999999999998899e-05
+roberta,16,0.15,Recall,Englisch,0.85,0.0014000000000000123
+roberta,32,0.15,Recall,Englisch,0.83,0.009449999999999958
+roberta,64,0.15,Recall,Englisch,0.81,0.006850000000000023
+roberta,16,0.2,Recall,Englisch,0.84,0.0024000000000000132
+roberta,32,0.2,Recall,Englisch,0.83,0.0025000000000000022
+roberta,64,0.2,Recall,Englisch,0.82,0.009200000000000041
+multiflair,16,0.05,Accuracy,Englisch,0.92,0.0046000000000000485
+multiflair,32,0.05,Accuracy,Englisch,0.9,0.0010499999999999954
+multiflair,64,0.05,Accuracy,Englisch,0.9,0.0010000000000000009
+multiflair,16,0.1,Accuracy,Englisch,0.94,0.0006499999999999839
+multiflair,32,0.1,Accuracy,Englisch,0.92,0.0021500000000000408
+multiflair,64,0.1,Accuracy,Englisch,0.91,0.0005499999999999949
+multiflair,16,0.15,Accuracy,Englisch,0.94,0.0013000000000000234
+multiflair,32,0.15,Accuracy,Englisch,0.93,0.0017499999999999738
+multiflair,64,0.15,Accuracy,Englisch,0.92,0.00269999999999998
+multiflair,16,0.2,Accuracy,Englisch,0.95,0.0007500000000000284
+multiflair,32,0.2,Accuracy,Englisch,0.94,0.0024000000000000132
+multiflair,64,0.2,Accuracy,Englisch,0.93,0.000150000000000039
+bert,16,0.05,Accuracy,Englisch,0.95,0.0005999999999999894
+bert,32,0.05,Accuracy,Englisch,0.95,0.00014999999999998348
+bert,64,0.05,Accuracy,Englisch,0.94,4.999999999999449e-05
+bert,16,0.1,Accuracy,Englisch,0.95,0.0005499999999999949
+bert,32,0.1,Accuracy,Englisch,0.95,0.0
+bert,64,0.1,Accuracy,Englisch,0.95,0.00044999999999995044
+bert,16,0.15,Accuracy,Englisch,0.96,0.0005499999999999949
+bert,32,0.15,Accuracy,Englisch,0.95,0.0007999999999999674
+bert,64,0.15,Accuracy,Englisch,0.95,0.0013499999999999623
+bert,16,0.2,Accuracy,Englisch,0.96,0.00045000000000000595
+bert,32,0.2,Accuracy,Englisch,0.96,0.0010499999999999954
+bert,64,0.2,Accuracy,Englisch,0.95,0.00039999999999995595
+roberta,16,0.05,Accuracy,Englisch,0.96,0.00014999999999998348
+roberta,32,0.05,Accuracy,Englisch,0.95,0.000250000000000028
+roberta,64,0.05,Accuracy,Englisch,0.95,0.0
+roberta,16,0.1,Accuracy,Englisch,0.96,0.0014500000000000068
+roberta,32,0.1,Accuracy,Englisch,0.96,0.0008500000000000174
+roberta,64,0.1,Accuracy,Englisch,0.95,0.0
+roberta,16,0.15,Accuracy,Englisch,0.96,0.00029999999999996696
+roberta,32,0.15,Accuracy,Englisch,0.96,0.0016499999999999848
+roberta,64,0.15,Accuracy,Englisch,0.96,0.0008000000000000229
+roberta,16,0.2,Accuracy,Englisch,0.96,0.00045000000000000595
+roberta,32,0.2,Accuracy,Englisch,0.96,0.0006499999999999839
+roberta,64,0.2,Accuracy,Englisch,0.96,0.0014500000000000068
+multiflair,16,0.05,F1-Werte (micro),Finnisch,0.69,0.02410000000000001
+multiflair,32,0.05,F1-Werte (micro),Finnisch,0.57,0.002599999999999991
+multiflair,64,0.05,F1-Werte (micro),Finnisch,0.53,0.005500000000000005
+multiflair,16,0.1,F1-Werte (micro),Finnisch,0.75,0.0019000000000000128
+multiflair,32,0.1,F1-Werte (micro),Finnisch,0.69,0.006249999999999978
+multiflair,64,0.1,F1-Werte (micro),Finnisch,0.65,0.01425000000000004
+multiflair,16,0.15,F1-Werte (micro),Finnisch,0.76,0.003950000000000009
+multiflair,32,0.15,F1-Werte (micro),Finnisch,0.73,0.005699999999999983
+multiflair,64,0.15,F1-Werte (micro),Finnisch,0.66,0.016000000000000014
+multiflair,16,0.2,F1-Werte (micro),Finnisch,0.78,0.0012499999999999734
+multiflair,32,0.2,F1-Werte (micro),Finnisch,0.74,0.010299999999999976
+multiflair,64,0.2,F1-Werte (micro),Finnisch,0.7,0.0009500000000000064
+bert,16,0.05,F1-Werte (micro),Finnisch,0.8,0.0028000000000000247
+bert,32,0.05,F1-Werte (micro),Finnisch,0.79,0.0009000000000000119
+bert,64,0.05,F1-Werte (micro),Finnisch,0.77,0.0014000000000000123
+bert,16,0.1,F1-Werte (micro),Finnisch,0.81,0.0015000000000000013
+bert,32,0.1,F1-Werte (micro),Finnisch,0.8,0.0037499999999999756
+bert,64,0.1,F1-Werte (micro),Finnisch,0.79,0.0005499999999999949
+bert,16,0.15,F1-Werte (micro),Finnisch,0.82,0.0045499999999999985
+bert,32,0.15,F1-Werte (micro),Finnisch,0.81,0.005950000000000011
+bert,64,0.15,F1-Werte (micro),Finnisch,0.79,0.0009000000000000119
+bert,16,0.2,F1-Werte (micro),Finnisch,0.82,0.003400000000000014
+bert,32,0.2,F1-Werte (micro),Finnisch,0.82,0.0009000000000000119
+bert,64,0.2,F1-Werte (micro),Finnisch,0.81,0.0015999999999999903
+roberta,16,0.05,F1-Werte (micro),Finnisch,0.83,0.0
+roberta,32,0.05,F1-Werte (micro),Finnisch,0.82,0.0016999999999999793
+roberta,64,0.05,F1-Werte (micro),Finnisch,0.79,0.0014500000000000068
+roberta,16,0.1,F1-Werte (micro),Finnisch,0.84,0.008050000000000002
+roberta,32,0.1,F1-Werte (micro),Finnisch,0.83,0.0030999999999999917
+roberta,64,0.1,F1-Werte (micro),Finnisch,0.82,0.0008500000000000174
+roberta,16,0.15,F1-Werte (micro),Finnisch,0.85,0.0033999999999999586
+roberta,32,0.15,F1-Werte (micro),Finnisch,0.84,0.006249999999999978
+roberta,64,0.15,F1-Werte (micro),Finnisch,0.83,0.009299999999999975
+roberta,16,0.2,F1-Werte (micro),Finnisch,0.85,0.0006499999999999839
+roberta,32,0.2,F1-Werte (micro),Finnisch,0.85,0.003699999999999981
+roberta,64,0.2,F1-Werte (micro),Finnisch,0.84,0.004449999999999954
+multiflair,16,0.05,Precision,Finnisch,0.79,0.02065
+multiflair,32,0.05,Precision,Finnisch,0.7,0.0019000000000000128
+multiflair,64,0.05,Precision,Finnisch,0.68,0.006350000000000022
+multiflair,16,0.1,Precision,Finnisch,0.82,0.003500000000000003
+multiflair,32,0.1,Precision,Finnisch,0.78,0.010599999999999998
+multiflair,64,0.1,Precision,Finnisch,0.77,0.024599999999999955
+multiflair,16,0.15,Precision,Finnisch,0.82,0.0009499999999999509
+multiflair,32,0.15,Precision,Finnisch,0.81,0.0013000000000000234
+multiflair,64,0.15,Precision,Finnisch,0.77,0.013400000000000023
+multiflair,16,0.2,Precision,Finnisch,0.83,0.0029000000000000137
+multiflair,32,0.2,Precision,Finnisch,0.8,0.006850000000000023
+multiflair,64,0.2,Precision,Finnisch,0.79,0.00020000000000003348
+bert,16,0.05,Precision,Finnisch,0.84,0.0024500000000000077
+bert,32,0.05,Precision,Finnisch,0.83,0.0014000000000000123
+bert,64,0.05,Precision,Finnisch,0.82,0.0018499999999999628
+bert,16,0.1,Precision,Finnisch,0.84,0.003750000000000031
+bert,32,0.1,Precision,Finnisch,0.84,0.0024500000000000077
+bert,64,0.1,Precision,Finnisch,0.84,0.0012999999999999678
+bert,16,0.15,Precision,Finnisch,0.86,0.006299999999999972
+bert,32,0.15,Precision,Finnisch,0.85,0.005200000000000038
+bert,64,0.15,Precision,Finnisch,0.83,0.0008000000000000229
+bert,16,0.2,Precision,Finnisch,0.85,0.0037000000000000366
+bert,32,0.2,Precision,Finnisch,0.85,0.0008499999999999619
+bert,64,0.2,Precision,Finnisch,0.84,0.0007000000000000339
+roberta,16,0.05,Precision,Finnisch,0.86,0.0008500000000000174
+roberta,32,0.05,Precision,Finnisch,0.85,0.0020999999999999908
+roberta,64,0.05,Precision,Finnisch,0.83,0.0009000000000000119
+roberta,16,0.1,Precision,Finnisch,0.86,0.007800000000000029
+roberta,32,0.1,Precision,Finnisch,0.86,0.0008000000000000229
+roberta,64,0.1,Precision,Finnisch,0.85,0.0005999999999999894
+roberta,16,0.15,Precision,Finnisch,0.88,0.0021999999999999797
+roberta,32,0.15,Precision,Finnisch,0.86,0.0012500000000000289
+roberta,64,0.15,Precision,Finnisch,0.85,0.009299999999999975
+roberta,16,0.2,Precision,Finnisch,0.87,0.0010000000000000009
+roberta,32,0.2,Precision,Finnisch,0.87,0.003950000000000009
+roberta,64,0.2,Precision,Finnisch,0.87,0.0015999999999999903
+multiflair,16,0.05,Recall,Finnisch,0.61,0.025500000000000023
+multiflair,32,0.05,Recall,Finnisch,0.47,0.0027500000000000024
+multiflair,64,0.05,Recall,Finnisch,0.44,0.004799999999999999
+multiflair,16,0.1,Recall,Finnisch,0.69,0.0006999999999999784
+multiflair,32,0.1,Recall,Finnisch,0.61,0.0034500000000000086
+multiflair,64,0.1,Recall,Finnisch,0.56,0.00824999999999998
+multiflair,16,0.15,Recall,Finnisch,0.71,0.006199999999999983
+multiflair,32,0.15,Recall,Finnisch,0.66,0.01034999999999997
+multiflair,64,0.15,Recall,Finnisch,0.57,0.016849999999999976
+multiflair,16,0.2,Recall,Finnisch,0.73,0.0
+multiflair,32,0.2,Recall,Finnisch,0.69,0.012750000000000039
+multiflair,64,0.2,Recall,Finnisch,0.63,0.0017499999999999738
+bert,16,0.05,Recall,Finnisch,0.77,0.0030999999999999917
+bert,32,0.05,Recall,Finnisch,0.75,0.0027499999999999747
+bert,64,0.05,Recall,Finnisch,0.72,0.0010499999999999954
+bert,16,0.1,Recall,Finnisch,0.77,0.00035000000000001696
+bert,32,0.1,Recall,Finnisch,0.77,0.0048499999999999654
+bert,64,0.1,Recall,Finnisch,0.75,0.0
+bert,16,0.15,Recall,Finnisch,0.78,0.0030999999999999917
+bert,32,0.15,Recall,Finnisch,0.78,0.00655
+bert,64,0.15,Recall,Finnisch,0.76,0.0010499999999999954
+bert,16,0.2,Recall,Finnisch,0.78,0.0030999999999999917
+bert,32,0.2,Recall,Finnisch,0.78,0.002449999999999952
+bert,64,0.2,Recall,Finnisch,0.77,0.0034500000000000086
+roberta,16,0.05,Recall,Finnisch,0.8,0.0006999999999999784
+roberta,32,0.05,Recall,Finnisch,0.79,0.0014000000000000123
+roberta,64,0.05,Recall,Finnisch,0.76,0.0034500000000000086
+roberta,16,0.1,Recall,Finnisch,0.82,0.00824999999999998
+roberta,32,0.1,Recall,Finnisch,0.81,0.005200000000000038
+roberta,64,0.1,Recall,Finnisch,0.79,0.0020999999999999908
+roberta,16,0.15,Recall,Finnisch,0.83,0.004500000000000004
+roberta,32,0.15,Recall,Finnisch,0.81,0.010699999999999987
+roberta,64,0.15,Recall,Finnisch,0.8,0.009299999999999975
+roberta,16,0.2,Recall,Finnisch,0.82,0.00035000000000001696
+roberta,32,0.2,Recall,Finnisch,0.82,0.0033999999999999586
+roberta,64,0.2,Recall,Finnisch,0.81,0.006850000000000023
+multiflair,16,0.05,Accuracy,Finnisch,0.93,0.003999999999999948
+multiflair,32,0.05,Accuracy,Finnisch,0.91,0.0005500000000000504
+multiflair,64,0.05,Accuracy,Finnisch,0.91,0.0010499999999999954
+multiflair,16,0.1,Accuracy,Finnisch,0.94,0.00039999999999995595
+multiflair,32,0.1,Accuracy,Finnisch,0.93,0.0008500000000000174
+multiflair,64,0.1,Accuracy,Finnisch,0.93,0.0015000000000000013
+multiflair,16,0.15,Accuracy,Finnisch,0.95,0.0011000000000000454
+multiflair,32,0.15,Accuracy,Finnisch,0.94,0.0014500000000000068
+multiflair,64,0.15,Accuracy,Finnisch,0.93,0.0026499999999999857
+multiflair,16,0.2,Accuracy,Finnisch,0.95,0.000749999999999973
+multiflair,32,0.2,Accuracy,Finnisch,0.94,0.0021000000000000463
+multiflair,64,0.2,Accuracy,Finnisch,0.94,0.00040000000000001146
+bert,16,0.05,Accuracy,Finnisch,0.96,0.0005499999999999949
+bert,32,0.05,Accuracy,Finnisch,0.95,0.00019999999999997797
+bert,64,0.05,Accuracy,Finnisch,0.95,0.00020000000000003348
+bert,16,0.1,Accuracy,Finnisch,0.96,0.0001000000000000445
+bert,32,0.1,Accuracy,Finnisch,0.96,0.0005999999999999894
+bert,64,0.1,Accuracy,Finnisch,0.96,0.0001000000000000445
+bert,16,0.15,Accuracy,Finnisch,0.96,0.0007999999999999674
+bert,32,0.15,Accuracy,Finnisch,0.96,0.0011499999999999844
+bert,64,0.15,Accuracy,Finnisch,0.96,0.0
+bert,16,0.2,Accuracy,Finnisch,0.96,0.0005999999999999894
+bert,32,0.2,Accuracy,Finnisch,0.96,0.00014999999999998348
+bert,64,0.2,Accuracy,Finnisch,0.96,0.00024999999999997247
+roberta,16,0.05,Accuracy,Finnisch,0.97,4.999999999999449e-05
+roberta,32,0.05,Accuracy,Finnisch,0.96,0.00035000000000001696
+roberta,64,0.05,Accuracy,Finnisch,0.96,0.00040000000000001146
+roberta,16,0.1,Accuracy,Finnisch,0.97,0.0012999999999999678
+roberta,32,0.1,Accuracy,Finnisch,0.97,0.0005999999999999894
+roberta,64,0.1,Accuracy,Finnisch,0.96,0.00035000000000001696
+roberta,16,0.15,Accuracy,Finnisch,0.97,0.00039999999999995595
+roberta,32,0.15,Accuracy,Finnisch,0.97,0.0015999999999999903
+roberta,64,0.15,Accuracy,Finnisch,0.96,0.0015999999999999903
+roberta,16,0.2,Accuracy,Finnisch,0.97,9.999999999998899e-05
+roberta,32,0.2,Accuracy,Finnisch,0.97,0.00045000000000000595
+roberta,64,0.2,Accuracy,Finnisch,0.97,0.0010999999999999899
+multiflair,16,0.05,F1-Werte (micro),Französisch,0.71,0.02729999999999999
+multiflair,32,0.05,F1-Werte (micro),Französisch,0.56,0.01104999999999995
+multiflair,64,0.05,F1-Werte (micro),Französisch,0.53,0.00605
+multiflair,16,0.1,F1-Werte (micro),Französisch,0.8,0.00385000000000002
+multiflair,32,0.1,F1-Werte (micro),Französisch,0.7,0.01815
+multiflair,64,0.1,F1-Werte (micro),Französisch,0.65,0.00275000000000003
+multiflair,16,0.15,F1-Werte (micro),Französisch,0.81,0.00655
+multiflair,32,0.15,F1-Werte (micro),Französisch,0.78,0.004599999999999993
+multiflair,64,0.15,F1-Werte (micro),Französisch,0.67,0.012300000000000033
+multiflair,16,0.2,F1-Werte (micro),Französisch,0.83,0.0015000000000000013
+multiflair,32,0.2,F1-Werte (micro),Französisch,0.79,0.0019000000000000128
+multiflair,64,0.2,F1-Werte (micro),Französisch,0.73,0.005449999999999955
+bert,16,0.05,F1-Werte (micro),Französisch,0.82,0.004300000000000026
+bert,32,0.05,F1-Werte (micro),Französisch,0.79,0.0023000000000000242
+bert,64,0.05,F1-Werte (micro),Französisch,0.75,0.004850000000000021
+bert,16,0.1,F1-Werte (micro),Französisch,0.83,0.0015499999999999958
+bert,32,0.1,F1-Werte (micro),Französisch,0.83,0.00655
+bert,64,0.1,F1-Werte (micro),Französisch,0.8,0.0024500000000000077
+bert,16,0.15,F1-Werte (micro),Französisch,0.83,0.0018500000000000183
+bert,32,0.15,F1-Werte (micro),Französisch,0.83,0.0037499999999999756
+bert,64,0.15,F1-Werte (micro),Französisch,0.81,0.007800000000000029
+bert,16,0.2,F1-Werte (micro),Französisch,0.84,0.00655
+bert,32,0.2,F1-Werte (micro),Französisch,0.84,0.00040000000000001146
+bert,64,0.2,F1-Werte (micro),Französisch,0.82,0.0034999999999999476
+roberta,16,0.05,F1-Werte (micro),Französisch,0.84,0.00024999999999997247
+roberta,32,0.05,F1-Werte (micro),Französisch,0.83,0.0020499999999999963
+roberta,64,0.05,F1-Werte (micro),Französisch,0.8,0.00030000000000002247
+roberta,16,0.1,F1-Werte (micro),Französisch,0.85,0.00649999999999995
+roberta,32,0.1,F1-Werte (micro),Französisch,0.84,0.008099999999999996
+roberta,64,0.1,F1-Werte (micro),Französisch,0.83,0.0041999999999999815
+roberta,16,0.15,F1-Werte (micro),Französisch,0.85,0.00019999999999997797
+roberta,32,0.15,F1-Werte (micro),Französisch,0.84,0.007799999999999974
+roberta,64,0.15,F1-Werte (micro),Französisch,0.84,0.007550000000000001
+roberta,16,0.2,F1-Werte (micro),Französisch,0.85,0.00034999999999996145
+roberta,32,0.2,F1-Werte (micro),Französisch,0.85,0.003149999999999986
+roberta,64,0.2,F1-Werte (micro),Französisch,0.84,0.00655
+multiflair,16,0.05,Precision,Französisch,0.81,0.0042999999999999705
+multiflair,32,0.05,Precision,Französisch,0.72,0.0031999999999999806
+multiflair,64,0.05,Precision,Französisch,0.72,0.0040000000000000036
+multiflair,16,0.1,Precision,Französisch,0.85,0.0037000000000000366
+multiflair,32,0.1,Precision,Französisch,0.8,0.008349999999999969
+multiflair,64,0.1,Precision,Französisch,0.78,0.0033500000000000196
+multiflair,16,0.15,Precision,Französisch,0.85,0.0010499999999999954
+multiflair,32,0.15,Precision,Französisch,0.84,0.000150000000000039
+multiflair,64,0.15,Precision,Französisch,0.79,0.00045000000000000595
+multiflair,16,0.2,Precision,Französisch,0.85,0.0021999999999999797
+multiflair,32,0.2,Precision,Französisch,0.84,0.0048000000000000265
+multiflair,64,0.2,Precision,Französisch,0.83,0.008900000000000019
+bert,16,0.05,Precision,Französisch,0.84,0.0011499999999999844
+bert,32,0.05,Precision,Französisch,0.82,0.0005000000000000004
+bert,64,0.05,Precision,Französisch,0.79,0.009800000000000031
+bert,16,0.1,Precision,Französisch,0.86,0.0041999999999999815
+bert,32,0.1,Precision,Französisch,0.86,0.0041500000000000425
+bert,64,0.1,Precision,Französisch,0.83,0.000749999999999973
+bert,16,0.15,Precision,Französisch,0.85,0.00045000000000000595
+bert,32,0.15,Precision,Französisch,0.85,0.0010000000000000009
+bert,64,0.15,Precision,Französisch,0.83,0.007650000000000046
+bert,16,0.2,Precision,Französisch,0.86,0.00605
+bert,32,0.2,Precision,Französisch,0.86,0.0017499999999999738
+bert,64,0.2,Precision,Französisch,0.85,0.0021500000000000408
+roberta,16,0.05,Precision,Französisch,0.85,0.0011499999999999844
+roberta,32,0.05,Precision,Französisch,0.84,0.0017499999999999738
+roberta,64,0.05,Precision,Französisch,0.82,0.0010999999999999899
+roberta,16,0.1,Precision,Französisch,0.86,0.0034500000000000086
+roberta,32,0.1,Precision,Französisch,0.85,0.007499999999999951
+roberta,64,0.1,Precision,Französisch,0.84,0.0011500000000000399
+roberta,16,0.15,Precision,Französisch,0.86,0.0013000000000000234
+roberta,32,0.15,Precision,Französisch,0.85,0.0020499999999999963
+roberta,64,0.15,Precision,Französisch,0.85,0.008050000000000002
+roberta,16,0.2,Precision,Französisch,0.85,0.003049999999999997
+roberta,32,0.2,Precision,Französisch,0.85,0.0031999999999999806
+roberta,64,0.2,Precision,Französisch,0.85,0.003500000000000003
+multiflair,16,0.05,Recall,Französisch,0.64,0.040949999999999986
+multiflair,32,0.05,Recall,Französisch,0.45,0.013399999999999995
+multiflair,64,0.05,Recall,Französisch,0.42,0.0063
+multiflair,16,0.1,Recall,Französisch,0.75,0.003950000000000009
+multiflair,32,0.1,Recall,Französisch,0.63,0.023650000000000004
+multiflair,64,0.1,Recall,Französisch,0.55,0.0023499999999999632
+multiflair,16,0.15,Recall,Französisch,0.78,0.01100000000000001
+multiflair,32,0.15,Recall,Französisch,0.72,0.007850000000000024
+multiflair,64,0.15,Recall,Französisch,0.58,0.018900000000000028
+multiflair,16,0.2,Recall,Französisch,0.8,0.0007999999999999674
+multiflair,32,0.2,Recall,Französisch,0.74,0.007050000000000001
+multiflair,64,0.2,Recall,Französisch,0.65,0.003149999999999986
+bert,16,0.05,Recall,Französisch,0.8,0.007050000000000001
+bert,32,0.05,Recall,Französisch,0.77,0.004699999999999982
+bert,64,0.05,Recall,Französisch,0.71,0.0007999999999999674
+bert,16,0.1,Recall,Französisch,0.81,0.0008000000000000229
+bert,32,0.1,Recall,Französisch,0.81,0.008649999999999991
+bert,64,0.1,Recall,Französisch,0.77,0.003950000000000009
+bert,16,0.15,Recall,Französisch,0.81,0.003149999999999986
+bert,32,0.15,Recall,Französisch,0.81,0.006299999999999972
+bert,64,0.15,Recall,Französisch,0.79,0.007900000000000018
+bert,16,0.2,Recall,Französisch,0.82,0.007099999999999995
+bert,32,0.2,Recall,Französisch,0.83,0.0023500000000000187
+bert,64,0.2,Recall,Französisch,0.8,0.0047499999999999765
+roberta,16,0.05,Recall,Französisch,0.83,0.0015999999999999903
+roberta,32,0.05,Recall,Französisch,0.82,0.0023499999999999632
+roberta,64,0.05,Recall,Französisch,0.78,0.0015500000000000513
+roberta,16,0.1,Recall,Französisch,0.84,0.009449999999999958
+roberta,32,0.1,Recall,Französisch,0.83,0.008649999999999991
+roberta,64,0.1,Recall,Französisch,0.81,0.007050000000000001
+roberta,16,0.15,Recall,Französisch,0.84,0.0008000000000000229
+roberta,32,0.15,Recall,Französisch,0.84,0.013400000000000023
+roberta,64,0.15,Recall,Französisch,0.82,0.007050000000000001
+roberta,16,0.2,Recall,Französisch,0.84,0.0024000000000000132
+roberta,32,0.2,Recall,Französisch,0.84,0.003149999999999986
+roberta,64,0.2,Recall,Französisch,0.83,0.009450000000000014
+multiflair,16,0.05,Accuracy,Französisch,0.96,0.003249999999999975
+multiflair,32,0.05,Accuracy,Französisch,0.95,0.0013000000000000234
+multiflair,64,0.05,Accuracy,Französisch,0.95,0.00040000000000001146
+multiflair,16,0.1,Accuracy,Französisch,0.97,0.00030000000000002247
+multiflair,32,0.1,Accuracy,Französisch,0.96,0.0019500000000000073
+multiflair,64,0.1,Accuracy,Französisch,0.96,0.00034999999999996145
+multiflair,16,0.15,Accuracy,Französisch,0.98,0.0007000000000000339
+multiflair,32,0.15,Accuracy,Französisch,0.97,0.0006000000000000449
+multiflair,64,0.15,Accuracy,Französisch,0.96,0.0010999999999999899
+multiflair,16,0.2,Accuracy,Französisch,0.98,0.00014999999999998348
+multiflair,32,0.2,Accuracy,Französisch,0.97,0.00030000000000002247
+multiflair,64,0.2,Accuracy,Französisch,0.97,9.999999999998899e-05
+bert,16,0.05,Accuracy,Französisch,0.98,0.0006500000000000394
+bert,32,0.05,Accuracy,Französisch,0.98,0.0006499999999999839
+bert,64,0.05,Accuracy,Französisch,0.97,0.0005500000000000504
+bert,16,0.1,Accuracy,Französisch,0.98,0.00019999999999997797
+bert,32,0.1,Accuracy,Französisch,0.98,0.0005000000000000004
+bert,64,0.1,Accuracy,Französisch,0.98,0.00030000000000002247
+bert,16,0.15,Accuracy,Französisch,0.98,0.00020000000000003348
+bert,32,0.15,Accuracy,Französisch,0.98,0.0005499999999999949
+bert,64,0.15,Accuracy,Französisch,0.98,0.0007000000000000339
+bert,16,0.2,Accuracy,Französisch,0.98,0.0006000000000000449
+bert,32,0.2,Accuracy,Französisch,0.98,0.0001000000000000445
+bert,64,0.2,Accuracy,Französisch,0.98,0.00035000000000001696
+roberta,16,0.05,Accuracy,Französisch,0.98,0.0
+roberta,32,0.05,Accuracy,Französisch,0.98,9.999999999998899e-05
+roberta,64,0.05,Accuracy,Französisch,0.98,0.00019999999999997797
+roberta,16,0.1,Accuracy,Französisch,0.98,0.0007000000000000339
+roberta,32,0.1,Accuracy,Französisch,0.98,0.0008500000000000174
+roberta,64,0.1,Accuracy,Französisch,0.98,0.0005000000000000004
+roberta,16,0.15,Accuracy,Französisch,0.98,0.000250000000000028
+roberta,32,0.15,Accuracy,Französisch,0.98,0.0010000000000000009
+roberta,64,0.15,Accuracy,Französisch,0.98,0.0005499999999999949
+roberta,16,0.2,Accuracy,Französisch,0.98,0.0
+roberta,32,0.2,Accuracy,Französisch,0.98,0.00040000000000001146
+roberta,64,0.2,Accuracy,Französisch,0.98,0.0006500000000000394
+multiflair,16,0.05,F1-Werte (micro),Italienisch,0.58,0.0232
+multiflair,32,0.05,F1-Werte (micro),Italienisch,0.46,0.007400000000000018
+multiflair,64,0.05,F1-Werte (micro),Italienisch,0.43,0.006699999999999984
+multiflair,16,0.1,F1-Werte (micro),Italienisch,0.66,0.004599999999999993
+multiflair,32,0.1,F1-Werte (micro),Italienisch,0.58,0.017749999999999988
+multiflair,64,0.1,F1-Werte (micro),Italienisch,0.53,0.005950000000000011
+multiflair,16,0.15,F1-Werte (micro),Italienisch,0.69,0.01100000000000001
+multiflair,32,0.15,F1-Werte (micro),Italienisch,0.64,0.007599999999999996
+multiflair,64,0.15,F1-Werte (micro),Italienisch,0.54,0.02065
+multiflair,16,0.2,F1-Werte (micro),Italienisch,0.72,0.003899999999999959
+multiflair,32,0.2,F1-Werte (micro),Italienisch,0.66,0.015250000000000041
+multiflair,64,0.2,F1-Werte (micro),Italienisch,0.61,0.007950000000000013
+bert,16,0.05,F1-Werte (micro),Italienisch,0.75,0.0034500000000000086
+bert,32,0.05,F1-Werte (micro),Italienisch,0.72,0.0025000000000000022
+bert,64,0.05,F1-Werte (micro),Italienisch,0.69,0.0011000000000000454
+bert,16,0.1,F1-Werte (micro),Italienisch,0.77,0.0012999999999999678
+bert,32,0.1,F1-Werte (micro),Italienisch,0.76,0.005400000000000016
+bert,64,0.1,F1-Werte (micro),Italienisch,0.72,0.0017999999999999683
+bert,16,0.15,F1-Werte (micro),Italienisch,0.78,0.005249999999999977
+bert,32,0.15,F1-Werte (micro),Italienisch,0.77,0.0049000000000000155
+bert,64,0.15,F1-Werte (micro),Italienisch,0.74,0.011199999999999988
+bert,16,0.2,F1-Werte (micro),Italienisch,0.78,0.0024000000000000132
+bert,32,0.2,F1-Werte (micro),Italienisch,0.77,0.0014500000000000068
+bert,64,0.2,F1-Werte (micro),Italienisch,0.75,0.007550000000000001
+roberta,16,0.05,F1-Werte (micro),Italienisch,0.75,0.0021499999999999853
+roberta,32,0.05,F1-Werte (micro),Italienisch,0.74,0.0015999999999999903
+roberta,64,0.05,F1-Werte (micro),Italienisch,0.71,0.0015499999999999958
+roberta,16,0.1,F1-Werte (micro),Italienisch,0.77,0.0018999999999999573
+roberta,32,0.1,F1-Werte (micro),Italienisch,0.75,0.00030000000000002247
+roberta,64,0.1,F1-Werte (micro),Italienisch,0.74,0.0034500000000000086
+roberta,16,0.15,F1-Werte (micro),Italienisch,0.79,0.002799999999999969
+roberta,32,0.15,F1-Werte (micro),Italienisch,0.77,0.014600000000000002
+roberta,64,0.15,F1-Werte (micro),Italienisch,0.75,0.006500000000000006
+roberta,16,0.2,F1-Werte (micro),Italienisch,0.78,0.0023500000000000187
+roberta,32,0.2,F1-Werte (micro),Italienisch,0.77,0.0039499999999999535
+roberta,64,0.2,F1-Werte (micro),Italienisch,0.76,0.01284999999999997
+multiflair,16,0.05,Precision,Italienisch,0.66,0.013000000000000012
+multiflair,32,0.05,Precision,Italienisch,0.56,0.0014000000000000123
+multiflair,64,0.05,Precision,Italienisch,0.55,0.008849999999999969
+multiflair,16,0.1,Precision,Italienisch,0.71,0.0015000000000000013
+multiflair,32,0.1,Precision,Italienisch,0.66,0.01934999999999998
+multiflair,64,0.1,Precision,Italienisch,0.63,0.011050000000000004
+multiflair,16,0.15,Precision,Italienisch,0.73,0.00934999999999997
+multiflair,32,0.15,Precision,Italienisch,0.71,0.005599999999999994
+multiflair,64,0.15,Precision,Italienisch,0.63,0.01695000000000002
+multiflair,16,0.2,Precision,Italienisch,0.75,0.005549999999999999
+multiflair,32,0.2,Precision,Italienisch,0.71,0.01435000000000003
+multiflair,64,0.2,Precision,Italienisch,0.68,0.0047499999999999765
+bert,16,0.05,Precision,Italienisch,0.78,0.0022999999999999687
+bert,32,0.05,Precision,Italienisch,0.76,0.0013499999999999623
+bert,64,0.05,Precision,Italienisch,0.73,0.0018000000000000238
+bert,16,0.1,Precision,Italienisch,0.8,0.0005999999999999894
+bert,32,0.1,Precision,Italienisch,0.79,0.0036499999999999866
+bert,64,0.1,Precision,Italienisch,0.76,0.003400000000000014
+bert,16,0.15,Precision,Italienisch,0.8,0.0039000000000000146
+bert,32,0.15,Precision,Italienisch,0.8,0.0048499999999999654
+bert,64,0.15,Precision,Italienisch,0.77,0.012749999999999984
+bert,16,0.2,Precision,Italienisch,0.81,0.0011500000000000399
+bert,32,0.2,Precision,Italienisch,0.8,0.003699999999999981
+bert,64,0.2,Precision,Italienisch,0.78,0.00655
+roberta,16,0.05,Precision,Italienisch,0.79,0.0046499999999999875
+roberta,32,0.05,Precision,Italienisch,0.78,0.0040000000000000036
+roberta,64,0.05,Precision,Italienisch,0.75,0.0016499999999999848
+roberta,16,0.1,Precision,Italienisch,0.8,0.00040000000000001146
+roberta,32,0.1,Precision,Italienisch,0.79,0.00014999999999998348
+roberta,64,0.1,Precision,Italienisch,0.78,0.004049999999999998
+roberta,16,0.15,Precision,Italienisch,0.81,0.0049000000000000155
+roberta,32,0.15,Precision,Italienisch,0.8,0.008099999999999996
+roberta,64,0.15,Precision,Italienisch,0.78,0.0048000000000000265
+roberta,16,0.2,Precision,Italienisch,0.82,0.0044500000000000095
+roberta,32,0.2,Precision,Italienisch,0.8,0.004599999999999993
+roberta,64,0.2,Precision,Italienisch,0.79,0.009399999999999964
+multiflair,16,0.05,Recall,Italienisch,0.52,0.029100000000000015
+multiflair,32,0.05,Recall,Italienisch,0.39,0.009849999999999998
+multiflair,64,0.05,Recall,Italienisch,0.35,0.005399999999999988
+multiflair,16,0.1,Recall,Italienisch,0.62,0.006899999999999962
+multiflair,32,0.1,Recall,Italienisch,0.52,0.01629999999999998
+multiflair,64,0.1,Recall,Italienisch,0.46,0.002950000000000008
+multiflair,16,0.15,Recall,Italienisch,0.65,0.012349999999999972
+multiflair,32,0.15,Recall,Italienisch,0.59,0.008850000000000025
+multiflair,64,0.15,Recall,Italienisch,0.48,0.022199999999999998
+multiflair,16,0.2,Recall,Italienisch,0.68,0.0024500000000000077
+multiflair,32,0.2,Recall,Italienisch,0.61,0.015749999999999986
+multiflair,64,0.2,Recall,Italienisch,0.54,0.009850000000000025
+bert,16,0.05,Recall,Italienisch,0.72,0.0044500000000000095
+bert,32,0.05,Recall,Italienisch,0.69,0.0034500000000000086
+bert,64,0.05,Recall,Italienisch,0.65,0.0005000000000000004
+bert,16,0.1,Recall,Italienisch,0.74,0.0030000000000000027
+bert,32,0.1,Recall,Italienisch,0.73,0.006900000000000017
+bert,64,0.1,Recall,Italienisch,0.69,0.0005000000000000004
+bert,16,0.15,Recall,Italienisch,0.75,0.006399999999999961
+bert,32,0.15,Recall,Italienisch,0.75,0.0049499999999999544
+bert,64,0.15,Recall,Italienisch,0.71,0.00984999999999997
+bert,16,0.2,Recall,Italienisch,0.75,0.0034500000000000086
+bert,32,0.2,Recall,Italienisch,0.75,0.0005000000000000004
+bert,64,0.2,Recall,Italienisch,0.73,0.008400000000000019
+roberta,16,0.05,Recall,Italienisch,0.72,0.0
+roberta,32,0.05,Recall,Italienisch,0.71,0.0005000000000000004
+roberta,64,0.05,Recall,Italienisch,0.68,0.0015000000000000013
+roberta,16,0.1,Recall,Italienisch,0.75,0.0039499999999999535
+roberta,32,0.1,Recall,Italienisch,0.72,0.0005000000000000004
+roberta,64,0.1,Recall,Italienisch,0.71,0.002950000000000008
+roberta,16,0.15,Recall,Italienisch,0.76,0.0010000000000000009
+roberta,32,0.15,Recall,Italienisch,0.75,0.02024999999999999
+roberta,64,0.15,Recall,Italienisch,0.72,0.007900000000000018
+roberta,16,0.2,Recall,Italienisch,0.76,0.0005000000000000004
+roberta,32,0.2,Recall,Italienisch,0.75,0.003449999999999953
+roberta,64,0.2,Recall,Italienisch,0.74,0.01579999999999998
+multiflair,16,0.05,Accuracy,Italienisch,0.96,0.0025000000000000022
+multiflair,32,0.05,Accuracy,Italienisch,0.94,0.0008500000000000174
+multiflair,64,0.05,Accuracy,Italienisch,0.94,0.00040000000000001146
+multiflair,16,0.1,Accuracy,Italienisch,0.96,0.00045000000000000595
+multiflair,32,0.1,Accuracy,Italienisch,0.96,0.0014500000000000068
+multiflair,64,0.1,Accuracy,Italienisch,0.95,0.0001000000000000445
+multiflair,16,0.15,Accuracy,Italienisch,0.97,0.0009500000000000064
+multiflair,32,0.15,Accuracy,Italienisch,0.96,0.0008499999999999619
+multiflair,64,0.15,Accuracy,Italienisch,0.95,0.0020499999999999963
+multiflair,16,0.2,Accuracy,Italienisch,0.97,0.00020000000000003348
+multiflair,32,0.2,Accuracy,Italienisch,0.96,0.0013500000000000179
+multiflair,64,0.2,Accuracy,Italienisch,0.96,0.0005499999999999949
+bert,16,0.05,Accuracy,Italienisch,0.97,0.00034999999999996145
+bert,32,0.05,Accuracy,Italienisch,0.97,0.00019999999999997797
+bert,64,0.05,Accuracy,Italienisch,0.97,4.999999999999449e-05
+bert,16,0.1,Accuracy,Italienisch,0.98,0.00020000000000003348
+bert,32,0.1,Accuracy,Italienisch,0.97,0.00029999999999996696
+bert,64,0.1,Accuracy,Italienisch,0.97,0.00019999999999997797
+bert,16,0.15,Accuracy,Italienisch,0.98,0.0005000000000000004
+bert,32,0.15,Accuracy,Italienisch,0.98,0.00030000000000002247
+bert,64,0.15,Accuracy,Italienisch,0.97,0.0010000000000000009
+bert,16,0.2,Accuracy,Italienisch,0.98,0.000250000000000028
+bert,32,0.2,Accuracy,Italienisch,0.98,0.0
+bert,64,0.2,Accuracy,Italienisch,0.97,0.0008999999999999564
+roberta,16,0.05,Accuracy,Italienisch,0.97,0.0
+roberta,32,0.05,Accuracy,Italienisch,0.97,4.999999999999449e-05
+roberta,64,0.05,Accuracy,Italienisch,0.97,9.999999999998899e-05
+roberta,16,0.1,Accuracy,Italienisch,0.98,0.00029999999999996696
+roberta,32,0.1,Accuracy,Italienisch,0.97,4.999999999999449e-05
+roberta,64,0.1,Accuracy,Italienisch,0.97,0.00019999999999997797
+roberta,16,0.15,Accuracy,Italienisch,0.98,0.000250000000000028
+roberta,32,0.15,Accuracy,Italienisch,0.98,0.0017499999999999738
+roberta,64,0.15,Accuracy,Italienisch,0.97,0.0007500000000000284
+roberta,16,0.2,Accuracy,Italienisch,0.98,9.999999999998899e-05
+roberta,32,0.2,Accuracy,Italienisch,0.98,0.00040000000000001146
+roberta,64,0.2,Accuracy,Italienisch,0.98,0.0012500000000000289
+multiflair,16,0.05,F1-Werte (micro),Spanisch,0.65,0.028749999999999998
+multiflair,32,0.05,F1-Werte (micro),Spanisch,0.55,0.0044500000000000095
+multiflair,64,0.05,F1-Werte (micro),Spanisch,0.5,0.012750000000000011
+multiflair,16,0.1,F1-Werte (micro),Spanisch,0.7,0.0013500000000000179
+multiflair,32,0.1,F1-Werte (micro),Spanisch,0.65,0.009099999999999997
+multiflair,64,0.1,F1-Werte (micro),Spanisch,0.6,0.009500000000000008
+multiflair,16,0.15,F1-Werte (micro),Spanisch,0.72,0.005949999999999955
+multiflair,32,0.15,F1-Werte (micro),Spanisch,0.68,0.00034999999999996145
+multiflair,64,0.15,F1-Werte (micro),Spanisch,0.61,0.010199999999999987
+multiflair,16,0.2,F1-Werte (micro),Spanisch,0.73,0.0026499999999999857
+multiflair,32,0.2,F1-Werte (micro),Spanisch,0.7,0.016100000000000003
+multiflair,64,0.2,F1-Werte (micro),Spanisch,0.66,0.004750000000000032
+bert,16,0.05,F1-Werte (micro),Spanisch,0.73,0.00039999999999995595
+bert,32,0.05,F1-Werte (micro),Spanisch,0.72,4.999999999999449e-05
+bert,64,0.05,F1-Werte (micro),Spanisch,0.69,0.0010999999999999899
+bert,16,0.1,F1-Werte (micro),Spanisch,0.76,0.0028499999999999637
+bert,32,0.1,F1-Werte (micro),Spanisch,0.74,0.003500000000000003
+bert,64,0.1,F1-Werte (micro),Spanisch,0.72,0.003699999999999981
+bert,16,0.15,F1-Werte (micro),Spanisch,0.76,0.003300000000000025
+bert,32,0.15,F1-Werte (micro),Spanisch,0.76,0.004300000000000026
+bert,64,0.15,F1-Werte (micro),Spanisch,0.73,0.0016999999999999793
+bert,16,0.2,F1-Werte (micro),Spanisch,0.76,0.006950000000000012
+bert,32,0.2,F1-Werte (micro),Spanisch,0.75,0.00045000000000000595
+bert,64,0.2,F1-Werte (micro),Spanisch,0.74,0.0020999999999999908
+roberta,16,0.05,F1-Werte (micro),Spanisch,0.77,0.0031500000000000417
+roberta,32,0.05,F1-Werte (micro),Spanisch,0.76,0.0023500000000000187
+roberta,64,0.05,F1-Werte (micro),Spanisch,0.73,0.00385000000000002
+roberta,16,0.1,F1-Werte (micro),Spanisch,0.78,0.00605
+roberta,32,0.1,F1-Werte (micro),Spanisch,0.76,0.004799999999999971
+roberta,64,0.1,F1-Werte (micro),Spanisch,0.76,0.005349999999999966
+roberta,16,0.15,F1-Werte (micro),Spanisch,0.78,4.999999999999449e-05
+roberta,32,0.15,F1-Werte (micro),Spanisch,0.78,0.010099999999999998
+roberta,64,0.15,F1-Werte (micro),Spanisch,0.76,0.008250000000000035
+roberta,16,0.2,F1-Werte (micro),Spanisch,0.78,0.000250000000000028
+roberta,32,0.2,F1-Werte (micro),Spanisch,0.78,0.007199999999999984
+roberta,64,0.2,F1-Werte (micro),Spanisch,0.78,0.005500000000000005
+multiflair,16,0.05,Precision,Spanisch,0.77,0.01655000000000001
+multiflair,32,0.05,Precision,Spanisch,0.73,0.02100000000000002
+multiflair,64,0.05,Precision,Spanisch,0.68,0.028049999999999964
+multiflair,16,0.1,Precision,Spanisch,0.78,0.009599999999999997
+multiflair,32,0.1,Precision,Spanisch,0.77,0.0020000000000000018
+multiflair,64,0.1,Precision,Spanisch,0.74,0.017500000000000016
+multiflair,16,0.15,Precision,Spanisch,0.78,0.0016999999999999793
+multiflair,32,0.15,Precision,Spanisch,0.77,0.0047499999999999765
+multiflair,64,0.15,Precision,Spanisch,0.75,0.0005499999999999949
+multiflair,16,0.2,Precision,Spanisch,0.79,0.010000000000000009
+multiflair,32,0.2,Precision,Spanisch,0.78,0.01419999999999999
+multiflair,64,0.2,Precision,Spanisch,0.78,0.011199999999999988
+bert,16,0.05,Precision,Spanisch,0.77,0.0019500000000000073
+bert,32,0.05,Precision,Spanisch,0.76,0.0008500000000000174
+bert,64,0.05,Precision,Spanisch,0.75,0.002599999999999991
+bert,16,0.1,Precision,Spanisch,0.79,0.006900000000000017
+bert,32,0.1,Precision,Spanisch,0.78,0.000749999999999973
+bert,64,0.1,Precision,Spanisch,0.76,0.003950000000000009
+bert,16,0.15,Precision,Spanisch,0.78,0.0024500000000000077
+bert,32,0.15,Precision,Spanisch,0.79,0.0044500000000000095
+bert,64,0.15,Precision,Spanisch,0.76,0.0006000000000000449
+bert,16,0.2,Precision,Spanisch,0.79,0.007500000000000007
+bert,32,0.2,Precision,Spanisch,0.78,0.003200000000000036
+bert,64,0.2,Precision,Spanisch,0.77,0.0024500000000000077
+roberta,16,0.05,Precision,Spanisch,0.78,0.0039499999999999535
+roberta,32,0.05,Precision,Spanisch,0.77,0.003599999999999992
+roberta,64,0.05,Precision,Spanisch,0.75,0.003500000000000003
+roberta,16,0.1,Precision,Spanisch,0.79,0.0025000000000000022
+roberta,32,0.1,Precision,Spanisch,0.78,0.008050000000000002
+roberta,64,0.1,Precision,Spanisch,0.78,0.0048000000000000265
+roberta,16,0.15,Precision,Spanisch,0.8,0.0011999999999999789
+roberta,32,0.15,Precision,Spanisch,0.79,0.005100000000000049
+roberta,64,0.15,Precision,Spanisch,0.78,0.007050000000000001
+roberta,16,0.2,Precision,Spanisch,0.79,0.0006999999999999784
+roberta,32,0.2,Precision,Spanisch,0.8,0.009800000000000031
+roberta,64,0.2,Precision,Spanisch,0.79,0.0019500000000000073
+multiflair,16,0.05,Recall,Spanisch,0.56,0.03425
+multiflair,32,0.05,Recall,Spanisch,0.44,0.0017500000000000016
+multiflair,64,0.05,Recall,Spanisch,0.39,0.006500000000000006
+multiflair,16,0.1,Recall,Spanisch,0.63,0.004149999999999987
+multiflair,32,0.1,Recall,Spanisch,0.56,0.012400000000000022
+multiflair,64,0.1,Recall,Spanisch,0.51,0.005299999999999971
+multiflair,16,0.15,Recall,Spanisch,0.66,0.008850000000000025
+multiflair,32,0.15,Recall,Spanisch,0.61,0.003550000000000053
+multiflair,64,0.15,Recall,Spanisch,0.51,0.014149999999999996
+multiflair,16,0.2,Recall,Spanisch,0.69,0.002950000000000008
+multiflair,32,0.2,Recall,Spanisch,0.64,0.01715
+multiflair,64,0.2,Recall,Spanisch,0.57,0.0011999999999999789
+bert,16,0.05,Recall,Spanisch,0.7,0.0023500000000000187
+bert,32,0.05,Recall,Spanisch,0.68,0.0005999999999999894
+bert,64,0.05,Recall,Spanisch,0.65,0.0
+bert,16,0.1,Recall,Spanisch,0.73,0.0005999999999999894
+bert,32,0.1,Recall,Spanisch,0.71,0.007099999999999995
+bert,64,0.1,Recall,Spanisch,0.68,0.0035499999999999976
+bert,16,0.15,Recall,Spanisch,0.73,0.0040999999999999925
+bert,32,0.15,Recall,Spanisch,0.73,0.0041500000000000425
+bert,64,0.15,Recall,Spanisch,0.69,0.0035499999999999976
+bert,16,0.2,Recall,Spanisch,0.73,0.006450000000000011
+bert,32,0.2,Recall,Spanisch,0.72,0.0035499999999999976
+bert,64,0.2,Recall,Spanisch,0.71,0.0017499999999999738
+roberta,16,0.05,Recall,Spanisch,0.75,0.0023500000000000187
+roberta,32,0.05,Recall,Spanisch,0.74,0.0011500000000000399
+roberta,64,0.05,Recall,Spanisch,0.7,0.0041500000000000425
+roberta,16,0.1,Recall,Spanisch,0.77,0.009449999999999958
+roberta,32,0.1,Recall,Spanisch,0.75,0.0018000000000000238
+roberta,64,0.1,Recall,Spanisch,0.74,0.005900000000000016
+roberta,16,0.15,Recall,Spanisch,0.77,0.0011999999999999789
+roberta,32,0.15,Recall,Spanisch,0.76,0.014749999999999985
+roberta,64,0.15,Recall,Spanisch,0.74,0.009449999999999958
+roberta,16,0.2,Recall,Spanisch,0.76,0.0012000000000000344
+roberta,32,0.2,Recall,Spanisch,0.77,0.004699999999999982
+roberta,64,0.2,Recall,Spanisch,0.76,0.008850000000000025
+multiflair,16,0.05,Accuracy,Spanisch,0.95,0.0031999999999999806
+multiflair,32,0.05,Accuracy,Spanisch,0.94,4.999999999999449e-05
+multiflair,64,0.05,Accuracy,Spanisch,0.94,0.0008499999999999619
+multiflair,16,0.1,Accuracy,Spanisch,0.96,0.00024999999999997247
+multiflair,32,0.1,Accuracy,Spanisch,0.95,0.0009500000000000064
+multiflair,64,0.1,Accuracy,Spanisch,0.95,0.0006999999999999784
+multiflair,16,0.15,Accuracy,Spanisch,0.96,0.000749999999999973
+multiflair,32,0.15,Accuracy,Spanisch,0.96,0.00035000000000001696
+multiflair,64,0.15,Accuracy,Spanisch,0.95,0.0014500000000000068
+multiflair,16,0.2,Accuracy,Spanisch,0.96,0.00034999999999996145
+multiflair,32,0.2,Accuracy,Spanisch,0.96,0.0019000000000000128
+multiflair,64,0.2,Accuracy,Spanisch,0.95,0.00040000000000001146
+bert,16,0.05,Accuracy,Spanisch,0.96,0.0
+bert,32,0.05,Accuracy,Spanisch,0.96,4.999999999999449e-05
+bert,64,0.05,Accuracy,Spanisch,0.96,4.999999999999449e-05
+bert,16,0.1,Accuracy,Spanisch,0.97,0.00035000000000001696
+bert,32,0.1,Accuracy,Spanisch,0.97,0.000749999999999973
+bert,64,0.1,Accuracy,Spanisch,0.96,0.00020000000000003348
+bert,16,0.15,Accuracy,Spanisch,0.97,0.0005000000000000004
+bert,32,0.15,Accuracy,Spanisch,0.97,0.00020000000000003348
+bert,64,0.15,Accuracy,Spanisch,0.96,0.0007000000000000339
+bert,16,0.2,Accuracy,Spanisch,0.97,0.0005999999999999894
+bert,32,0.2,Accuracy,Spanisch,0.97,0.000250000000000028
+bert,64,0.2,Accuracy,Spanisch,0.96,9.999999999998899e-05
+roberta,16,0.05,Accuracy,Spanisch,0.97,0.0005000000000000004
+roberta,32,0.05,Accuracy,Spanisch,0.97,0.000250000000000028
+roberta,64,0.05,Accuracy,Spanisch,0.96,0.00040000000000001146
+roberta,16,0.1,Accuracy,Spanisch,0.97,0.0010000000000000009
+roberta,32,0.1,Accuracy,Spanisch,0.97,0.0005999999999999894
+roberta,64,0.1,Accuracy,Spanisch,0.97,0.0006499999999999839
+roberta,16,0.15,Accuracy,Spanisch,0.97,9.999999999998899e-05
+roberta,32,0.15,Accuracy,Spanisch,0.97,0.0015999999999999903
+roberta,64,0.15,Accuracy,Spanisch,0.97,0.0009000000000000119
+roberta,16,0.2,Accuracy,Spanisch,0.97,9.999999999998899e-05
+roberta,32,0.2,Accuracy,Spanisch,0.97,0.0005999999999999894
+roberta,64,0.2,Accuracy,Spanisch,0.97,0.0007500000000000284
+multiflair,16,0.05,F1-Werte (micro),Alle Sprachen,0.67,0.022850000000000037
+multiflair,32,0.05,F1-Werte (micro),Alle Sprachen,0.57,0.0034999999999999476
+multiflair,64,0.05,F1-Werte (micro),Alle Sprachen,0.53,0.006400000000000017
+multiflair,16,0.1,F1-Werte (micro),Alle Sprachen,0.73,0.0009500000000000064
+multiflair,32,0.1,F1-Werte (micro),Alle Sprachen,0.67,0.01084999999999997
+multiflair,64,0.1,F1-Werte (micro),Alle Sprachen,0.62,0.0044500000000000095
+multiflair,16,0.15,F1-Werte (micro),Alle Sprachen,0.75,0.006799999999999973
+multiflair,32,0.15,F1-Werte (micro),Alle Sprachen,0.71,0.006449999999999956
+multiflair,64,0.15,F1-Werte (micro),Alle Sprachen,0.64,0.012649999999999995
+multiflair,16,0.2,F1-Werte (micro),Alle Sprachen,0.77,0.00040000000000001146
+multiflair,32,0.2,F1-Werte (micro),Alle Sprachen,0.73,0.009750000000000036
+multiflair,64,0.2,F1-Werte (micro),Alle Sprachen,0.68,0.0026499999999999857
+bert,16,0.05,F1-Werte (micro),Alle Sprachen,0.79,0.0030000000000000027
+bert,32,0.05,F1-Werte (micro),Alle Sprachen,0.77,0.00029999999999996696
+bert,64,0.05,F1-Werte (micro),Alle Sprachen,0.74,0.0010999999999999899
+bert,16,0.1,F1-Werte (micro),Alle Sprachen,0.8,0.0014500000000000068
+bert,32,0.1,F1-Werte (micro),Alle Sprachen,0.8,0.0017500000000000293
+bert,64,0.1,F1-Werte (micro),Alle Sprachen,0.77,0.0018999999999999573
+bert,16,0.15,F1-Werte (micro),Alle Sprachen,0.81,0.003149999999999986
+bert,32,0.15,F1-Werte (micro),Alle Sprachen,0.8,0.003950000000000009
+bert,64,0.15,F1-Werte (micro),Alle Sprachen,0.78,0.004850000000000021
+bert,16,0.2,F1-Werte (micro),Alle Sprachen,0.81,0.0022999999999999687
+bert,32,0.2,F1-Werte (micro),Alle Sprachen,0.81,0.0040000000000000036
+bert,64,0.2,F1-Werte (micro),Alle Sprachen,0.79,0.0025000000000000022
+roberta,16,0.05,F1-Werte (micro),Alle Sprachen,0.79,0.0014000000000000123
+roberta,32,0.05,F1-Werte (micro),Alle Sprachen,0.78,0.0012499999999999734
+roberta,64,0.05,F1-Werte (micro),Alle Sprachen,0.75,0.00030000000000002247
+roberta,16,0.1,F1-Werte (micro),Alle Sprachen,0.8,0.006900000000000017
+roberta,32,0.1,F1-Werte (micro),Alle Sprachen,0.79,0.0045499999999999985
+roberta,64,0.1,F1-Werte (micro),Alle Sprachen,0.78,0.0005000000000000004
+roberta,16,0.15,F1-Werte (micro),Alle Sprachen,0.82,0.0015499999999999958
+roberta,32,0.15,F1-Werte (micro),Alle Sprachen,0.8,0.009199999999999986
+roberta,64,0.15,F1-Werte (micro),Alle Sprachen,0.79,0.006800000000000028
+roberta,16,0.2,F1-Werte (micro),Alle Sprachen,0.81,0.0005000000000000004
+roberta,32,0.2,F1-Werte (micro),Alle Sprachen,0.81,0.0018500000000000183
+roberta,64,0.2,F1-Werte (micro),Alle Sprachen,0.8,0.006850000000000023
+multiflair,16,0.05,Precision,Alle Sprachen,0.78,0.010149999999999992
+multiflair,32,0.05,Precision,Alle Sprachen,0.72,0.0019000000000000128
+multiflair,64,0.05,Precision,Alle Sprachen,0.7,0.006399999999999961
+multiflair,16,0.1,Precision,Alle Sprachen,0.8,0.00030000000000002247
+multiflair,32,0.1,Precision,Alle Sprachen,0.77,0.008500000000000008
+multiflair,64,0.1,Precision,Alle Sprachen,0.75,0.007199999999999984
+multiflair,16,0.15,Precision,Alle Sprachen,0.81,0.0011000000000000454
+multiflair,32,0.15,Precision,Alle Sprachen,0.8,0.0015499999999999958
+multiflair,64,0.15,Precision,Alle Sprachen,0.76,0.006749999999999978
+multiflair,16,0.2,Precision,Alle Sprachen,0.81,0.0021499999999999853
+multiflair,32,0.2,Precision,Alle Sprachen,0.79,0.0020499999999999963
+multiflair,64,0.2,Precision,Alle Sprachen,0.78,0.0015999999999999903
+bert,16,0.05,Precision,Alle Sprachen,0.83,0.0015499999999999958
+bert,32,0.05,Precision,Alle Sprachen,0.81,0.0016499999999999848
+bert,64,0.05,Precision,Alle Sprachen,0.79,0.0021999999999999797
+bert,16,0.1,Precision,Alle Sprachen,0.83,0.00040000000000001146
+bert,32,0.1,Precision,Alle Sprachen,0.83,0.0011500000000000399
+bert,64,0.1,Precision,Alle Sprachen,0.81,0.0016000000000000458
+bert,16,0.15,Precision,Alle Sprachen,0.84,0.0010999999999999899
+bert,32,0.15,Precision,Alle Sprachen,0.84,0.003899999999999959
+bert,64,0.15,Precision,Alle Sprachen,0.82,0.0034500000000000086
+bert,16,0.2,Precision,Alle Sprachen,0.84,0.0013000000000000234
+bert,32,0.2,Precision,Alle Sprachen,0.84,0.0025499999999999967
+bert,64,0.2,Precision,Alle Sprachen,0.83,0.00269999999999998
+roberta,16,0.05,Precision,Alle Sprachen,0.83,0.0018500000000000183
+roberta,32,0.05,Precision,Alle Sprachen,0.82,0.002599999999999991
+roberta,64,0.05,Precision,Alle Sprachen,0.81,0.004300000000000026
+roberta,16,0.1,Precision,Alle Sprachen,0.84,0.002999999999999947
+roberta,32,0.1,Precision,Alle Sprachen,0.83,0.0029000000000000137
+roberta,64,0.1,Precision,Alle Sprachen,0.83,0.0014000000000000123
+roberta,16,0.15,Precision,Alle Sprachen,0.85,0.0020000000000000018
+roberta,32,0.15,Precision,Alle Sprachen,0.84,0.003950000000000009
+roberta,64,0.15,Precision,Alle Sprachen,0.83,0.004599999999999993
+roberta,16,0.2,Precision,Alle Sprachen,0.85,0.0
+roberta,32,0.2,Precision,Alle Sprachen,0.84,0.0026499999999999857
+roberta,64,0.2,Precision,Alle Sprachen,0.83,0.003500000000000003
+multiflair,16,0.05,Recall,Alle Sprachen,0.59,0.02955000000000002
+multiflair,32,0.05,Recall,Alle Sprachen,0.47,0.005599999999999994
+multiflair,64,0.05,Recall,Alle Sprachen,0.43,0.005950000000000011
+multiflair,16,0.1,Recall,Alle Sprachen,0.67,0.0014500000000000068
+multiflair,32,0.1,Recall,Alle Sprachen,0.59,0.011899999999999966
+multiflair,64,0.1,Recall,Alle Sprachen,0.53,0.0028499999999999637
+multiflair,16,0.15,Recall,Alle Sprachen,0.7,0.011099999999999999
+multiflair,32,0.15,Recall,Alle Sprachen,0.65,0.009500000000000008
+multiflair,64,0.15,Recall,Alle Sprachen,0.55,0.01529999999999998
+multiflair,16,0.2,Recall,Alle Sprachen,0.73,0.0025000000000000022
+multiflair,32,0.2,Recall,Alle Sprachen,0.67,0.015100000000000002
+multiflair,64,0.2,Recall,Alle Sprachen,0.61,0.0031500000000000417
+bert,16,0.05,Recall,Alle Sprachen,0.76,0.004249999999999976
+bert,32,0.05,Recall,Alle Sprachen,0.73,0.0008000000000000229
+bert,64,0.05,Recall,Alle Sprachen,0.69,0.00024999999999997247
+bert,16,0.1,Recall,Alle Sprachen,0.77,0.0024000000000000132
+bert,32,0.1,Recall,Alle Sprachen,0.76,0.0023000000000000242
+bert,64,0.1,Recall,Alle Sprachen,0.73,0.0021999999999999797
+bert,16,0.15,Recall,Alle Sprachen,0.78,0.0049000000000000155
+bert,32,0.15,Recall,Alle Sprachen,0.78,0.003950000000000009
+bert,64,0.15,Recall,Alle Sprachen,0.75,0.005950000000000011
+bert,16,0.2,Recall,Alle Sprachen,0.78,0.003149999999999986
+bert,32,0.2,Recall,Alle Sprachen,0.78,0.005199999999999982
+bert,64,0.2,Recall,Alle Sprachen,0.76,0.0023500000000000187
+roberta,16,0.05,Recall,Alle Sprachen,0.76,0.0010000000000000009
+roberta,32,0.05,Recall,Alle Sprachen,0.74,0.00014999999999998348
+roberta,64,0.05,Recall,Alle Sprachen,0.7,0.0028000000000000247
+roberta,16,0.1,Recall,Alle Sprachen,0.77,0.010149999999999992
+roberta,32,0.1,Recall,Alle Sprachen,0.76,0.005849999999999966
+roberta,64,0.1,Recall,Alle Sprachen,0.74,0.00035000000000001696
+roberta,16,0.15,Recall,Alle Sprachen,0.79,0.0011999999999999789
+roberta,32,0.15,Recall,Alle Sprachen,0.77,0.013650000000000051
+roberta,64,0.15,Recall,Alle Sprachen,0.75,0.008550000000000002
+roberta,16,0.2,Recall,Alle Sprachen,0.78,0.0009000000000000119
+roberta,32,0.2,Recall,Alle Sprachen,0.77,0.0011999999999999789
+roberta,64,0.2,Recall,Alle Sprachen,0.76,0.009699999999999986
+multiflair,16,0.05,Accuracy,Alle Sprachen,0.94,0.0032500000000000306
+multiflair,32,0.05,Accuracy,Alle Sprachen,0.93,0.0005499999999999949
+multiflair,64,0.05,Accuracy,Alle Sprachen,0.92,0.0008000000000000229
+multiflair,16,0.1,Accuracy,Alle Sprachen,0.95,0.000250000000000028
+multiflair,32,0.1,Accuracy,Alle Sprachen,0.94,0.0014500000000000068
+multiflair,64,0.1,Accuracy,Alle Sprachen,0.94,0.00039999999999995595
+multiflair,16,0.15,Accuracy,Alle Sprachen,0.96,0.0011000000000000454
+multiflair,32,0.15,Accuracy,Alle Sprachen,0.95,0.0012499999999999734
+multiflair,64,0.15,Accuracy,Alle Sprachen,0.94,0.0018500000000000183
+multiflair,16,0.2,Accuracy,Alle Sprachen,0.96,0.000150000000000039
+multiflair,32,0.2,Accuracy,Alle Sprachen,0.95,0.0017500000000000293
+multiflair,64,0.2,Accuracy,Alle Sprachen,0.95,0.00030000000000002247
+bert,16,0.05,Accuracy,Alle Sprachen,0.96,0.0005999999999999894
+bert,32,0.05,Accuracy,Alle Sprachen,0.96,4.999999999999449e-05
+bert,64,0.05,Accuracy,Alle Sprachen,0.95,0.0
+bert,16,0.1,Accuracy,Alle Sprachen,0.96,0.00035000000000001696
+bert,32,0.1,Accuracy,Alle Sprachen,0.96,0.00029999999999996696
+bert,64,0.1,Accuracy,Alle Sprachen,0.96,0.000250000000000028
+bert,16,0.15,Accuracy,Alle Sprachen,0.97,0.0005999999999999894
+bert,32,0.15,Accuracy,Alle Sprachen,0.97,0.0005999999999999894
+bert,64,0.15,Accuracy,Alle Sprachen,0.96,0.0007500000000000284
+bert,16,0.2,Accuracy,Alle Sprachen,0.97,0.00029999999999996696
+bert,32,0.2,Accuracy,Alle Sprachen,0.97,0.0005999999999999894
+bert,64,0.2,Accuracy,Alle Sprachen,0.96,0.00045000000000000595
+roberta,16,0.05,Accuracy,Alle Sprachen,0.96,0.00019999999999997797
+roberta,32,0.05,Accuracy,Alle Sprachen,0.96,9.999999999998899e-05
+roberta,64,0.05,Accuracy,Alle Sprachen,0.96,0.0
+roberta,16,0.1,Accuracy,Alle Sprachen,0.96,0.0010999999999999899
+roberta,32,0.1,Accuracy,Alle Sprachen,0.96,0.0007000000000000339
+roberta,64,0.1,Accuracy,Alle Sprachen,0.96,0.0001000000000000445
+roberta,16,0.15,Accuracy,Alle Sprachen,0.97,0.00014999999999998348
+roberta,32,0.15,Accuracy,Alle Sprachen,0.96,0.0016499999999999848
+roberta,64,0.15,Accuracy,Alle Sprachen,0.96,0.0010000000000000009
+roberta,16,0.2,Accuracy,Alle Sprachen,0.97,4.999999999999449e-05
+roberta,32,0.2,Accuracy,Alle Sprachen,0.97,0.000250000000000028
+roberta,64,0.2,Accuracy,Alle Sprachen,0.96,0.0011499999999999844

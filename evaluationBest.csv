@@ -1,0 +1,97 @@
+Model,Eval,Lang,Average,Std
+multiflair,F1-Werte (micro),Chinesisch,0.83,0.0
+bert,F1-Werte (micro),Chinesisch,0.83,0.0
+roberta,F1-Werte (micro),Chinesisch,0.63,0.0
+multiflair,Precision,Chinesisch,0.88,0.0
+bert,Precision,Chinesisch,0.87,0.0
+roberta,Precision,Chinesisch,0.79,0.01
+multiflair,Recall,Chinesisch,0.79,0.0
+bert,Recall,Chinesisch,0.81,0.01
+roberta,Recall,Chinesisch,0.52,0.0
+multiflair,Accuracy,Chinesisch,0.97,0.0
+bert,Accuracy,Chinesisch,0.97,0.0
+roberta,Accuracy,Chinesisch,0.94,0.0
+multiflair,F1-Werte (micro),Deutsch,0.62,0.0
+bert,F1-Werte (micro),Deutsch,0.72,0.0
+roberta,F1-Werte (micro),Deutsch,0.78,0.01
+multiflair,Precision,Deutsch,0.68,0.0
+bert,Precision,Deutsch,0.75,0.0
+roberta,Precision,Deutsch,0.78,0.01
+multiflair,Recall,Deutsch,0.58,0.01
+bert,Recall,Deutsch,0.69,0.01
+roberta,Recall,Deutsch,0.77,0.01
+multiflair,Accuracy,Deutsch,0.96,0.0
+bert,Accuracy,Deutsch,0.97,0.0
+roberta,Accuracy,Deutsch,0.97,0.0
+multiflair,F1-Werte (micro),Englisch,0.8,0.0
+bert,F1-Werte (micro),Englisch,0.84,0.0
+roberta,F1-Werte (micro),Englisch,0.87,0.0
+multiflair,Precision,Englisch,0.83,0.0
+bert,Precision,Englisch,0.87,0.0
+roberta,Precision,Englisch,0.88,0.0
+multiflair,Recall,Englisch,0.77,0.0
+bert,Recall,Englisch,0.81,0.0
+roberta,Recall,Englisch,0.85,0.0
+multiflair,Accuracy,Englisch,0.95,0.0
+bert,Accuracy,Englisch,0.96,0.0
+roberta,Accuracy,Englisch,0.96,0.0
+multiflair,F1-Werte (micro),Finnisch,0.78,0.0
+bert,F1-Werte (micro),Finnisch,0.82,0.0
+roberta,F1-Werte (micro),Finnisch,0.85,0.0
+multiflair,Precision,Finnisch,0.83,0.0
+bert,Precision,Finnisch,0.86,0.01
+roberta,Precision,Finnisch,0.88,0.0
+multiflair,Recall,Finnisch,0.73,0.0
+bert,Recall,Finnisch,0.78,0.0
+roberta,Recall,Finnisch,0.83,0.0
+multiflair,Accuracy,Finnisch,0.95,0.0
+bert,Accuracy,Finnisch,0.96,0.0
+roberta,Accuracy,Finnisch,0.97,0.0
+multiflair,F1-Werte (micro),Französisch,0.83,0.0
+bert,F1-Werte (micro),Französisch,0.84,0.0
+roberta,F1-Werte (micro),Französisch,0.85,0.0
+multiflair,Precision,Französisch,0.85,0.0
+bert,Precision,Französisch,0.86,0.0
+roberta,Precision,Französisch,0.86,0.0
+multiflair,Recall,Französisch,0.8,0.0
+bert,Recall,Französisch,0.83,0.0
+roberta,Recall,Französisch,0.84,0.0
+multiflair,Accuracy,Französisch,0.98,0.0
+bert,Accuracy,Französisch,0.98,0.0
+roberta,Accuracy,Französisch,0.98,0.0
+multiflair,F1-Werte (micro),Italienisch,0.72,0.0
+bert,F1-Werte (micro),Italienisch,0.78,0.0
+roberta,F1-Werte (micro),Italienisch,0.79,0.0
+multiflair,Precision,Italienisch,0.75,0.01
+bert,Precision,Italienisch,0.81,0.0
+roberta,Precision,Italienisch,0.82,0.0
+multiflair,Recall,Italienisch,0.68,0.0
+bert,Recall,Italienisch,0.75,0.0
+roberta,Recall,Italienisch,0.76,0.0
+multiflair,Accuracy,Italienisch,0.97,0.0
+bert,Accuracy,Italienisch,0.98,0.0
+roberta,Accuracy,Italienisch,0.98,0.0
+multiflair,F1-Werte (micro),Spanisch,0.73,0.0
+bert,F1-Werte (micro),Spanisch,0.76,0.0
+roberta,F1-Werte (micro),Spanisch,0.78,0.0
+multiflair,Precision,Spanisch,0.79,0.01
+bert,Precision,Spanisch,0.79,0.0
+roberta,Precision,Spanisch,0.8,0.01
+multiflair,Recall,Spanisch,0.69,0.0
+bert,Recall,Spanisch,0.73,0.0
+roberta,Recall,Spanisch,0.77,0.0
+multiflair,Accuracy,Spanisch,0.96,0.0
+bert,Accuracy,Spanisch,0.97,0.0
+roberta,Accuracy,Spanisch,0.97,0.0
+multiflair,F1-Werte (micro),Alle Sprachen,0.77,0.0
+bert,F1-Werte (micro),Alle Sprachen,0.81,0.0
+roberta,F1-Werte (micro),Alle Sprachen,0.82,0.0
+multiflair,Precision,Alle Sprachen,0.81,0.0
+bert,Precision,Alle Sprachen,0.84,0.0
+roberta,Precision,Alle Sprachen,0.85,0.0
+multiflair,Recall,Alle Sprachen,0.73,0.0
+bert,Recall,Alle Sprachen,0.78,0.0
+roberta,Recall,Alle Sprachen,0.79,0.0
+multiflair,Accuracy,Alle Sprachen,0.96,0.0
+bert,Accuracy,Alle Sprachen,0.97,0.0
+roberta,Accuracy,Alle Sprachen,0.97,0.0
